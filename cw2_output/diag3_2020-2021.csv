@@ -1,0 +1,1591 @@
+﻿diag3_code,diag3_desc,admissions,emergency_admissions,year,summary_code,summary_desc
+A00,Cholera,6.0,3.0,2020-2021,A00-A09,Intestinal infectious diseases
+A01,Typhoid and paratyphoid fevers,79.0,57.0,2020-2021,A00-A09,Intestinal infectious diseases
+A02,Other salmonella infections,466.0,440.0,2020-2021,A00-A09,Intestinal infectious diseases
+A03,Shigellosis,121.0,117.0,2020-2021,A00-A09,Intestinal infectious diseases
+A04,Other bacterial intestinal infections,10005.0,8048.0,2020-2021,A00-A09,Intestinal infectious diseases
+A05,"Other bacterial foodborne intoxications, not elsewhere classified",311.0,308.0,2020-2021,A00-A09,Intestinal infectious diseases
+A06,Amoebiasis,35.0,23.0,2020-2021,A00-A09,Intestinal infectious diseases
+A07,Other protozoal intestinal diseases,186.0,139.0,2020-2021,A00-A09,Intestinal infectious diseases
+A08,Viral and other specified intestinal infections,9644.0,9501.0,2020-2021,A00-A09,Intestinal infectious diseases
+A09,Other gastroenteritis and colitis of infectious and unspecified origin,68017.0,49039.0,2020-2021,A00-A09,Intestinal infectious diseases
+A15,"Respiratory tuberculosis, bacteriologically and histologically confirmed",585.0,399.0,2020-2021,A15-A19,Tuberculosis
+A16,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",432.0,306.0,2020-2021,A15-A19,Tuberculosis
+A17,Tuberculosis of nervous system,108.0,75.0,2020-2021,A15-A19,Tuberculosis
+A18,Tuberculosis of other organs,414.0,272.0,2020-2021,A15-A19,Tuberculosis
+A19,Miliary tuberculosis,161.0,129.0,2020-2021,A15-A19,Tuberculosis
+A22,Anthrax,2.0,2.0,2020-2021,A20-A28,Certain zoonotic bacterial diseases
+A23,Brucellosis,7.0,5.0,2020-2021,A20-A28,Certain zoonotic bacterial diseases
+A24,Glanders and melioidosis,3.0,2.0,2020-2021,A20-A28,Certain zoonotic bacterial diseases
+A25,Rat-bite fevers,3.0,3.0,2020-2021,A20-A28,Certain zoonotic bacterial diseases
+A26,Erysipeloid,15.0,14.0,2020-2021,A20-A28,Certain zoonotic bacterial diseases
+A27,Leptospirosis,57.0,52.0,2020-2021,A20-A28,Certain zoonotic bacterial diseases
+A28,"Other zoonotic bacterial diseases, not elsewhere classified",28.0,25.0,2020-2021,A20-A28,Certain zoonotic bacterial diseases
+A30,Leprosy [Hansen disease],0.0,0.0,2020-2021,A30-A49,Other bacterial diseases
+A31,Infection due to other mycobacteria,323.0,116.0,2020-2021,A30-A49,Other bacterial diseases
+A32,Listeriosis,39.0,39.0,2020-2021,A30-A49,Other bacterial diseases
+A34,Obstetrical tetanus,1.0,1.0,2020-2021,A30-A49,Other bacterial diseases
+A35,Other tetanus,15.0,14.0,2020-2021,A30-A49,Other bacterial diseases
+A36,Diphtheria,10.0,8.0,2020-2021,A30-A49,Other bacterial diseases
+A37,Whooping cough,46.0,31.0,2020-2021,A30-A49,Other bacterial diseases
+A38,Scarlet fever,154.0,151.0,2020-2021,A30-A49,Other bacterial diseases
+A39,Meningococcal infection,202.0,185.0,2020-2021,A30-A49,Other bacterial diseases
+A40,Streptococcal sepsis,2651.0,2525.0,2020-2021,A30-A49,Other bacterial diseases
+A41,Other sepsis,90571.0,86855.0,2020-2021,A30-A49,Other bacterial diseases
+A42,Actinomycosis,126.0,37.0,2020-2021,A30-A49,Other bacterial diseases
+A43,Nocardiosis,5.0,3.0,2020-2021,A30-A49,Other bacterial diseases
+A44,Bartonellosis,2.0,1.0,2020-2021,A30-A49,Other bacterial diseases
+A46,Erysipelas,170.0,163.0,2020-2021,A30-A49,Other bacterial diseases
+A48,"Other bacterial diseases, not elsewhere classified",262.0,240.0,2020-2021,A30-A49,Other bacterial diseases
+A49,Bacterial infection of unspecified site,5298.0,4607.0,2020-2021,A30-A49,Other bacterial diseases
+A50,Congenital syphilis,22.0,5.0,2020-2021,A50-A64,Infections with a predominantly sexual mode of transmission
+A51,Early syphilis,32.0,9.0,2020-2021,A50-A64,Infections with a predominantly sexual mode of transmission
+A52,Late syphilis,219.0,81.0,2020-2021,A50-A64,Infections with a predominantly sexual mode of transmission
+A53,Other and unspecified syphilis,67.0,15.0,2020-2021,A50-A64,Infections with a predominantly sexual mode of transmission
+A54,Gonococcal infection,105.0,83.0,2020-2021,A50-A64,Infections with a predominantly sexual mode of transmission
+A55,Chlamydial lymphogranuloma (venereum),6.0,5.0,2020-2021,A50-A64,Infections with a predominantly sexual mode of transmission
+A56,Other sexually transmitted chlamydial diseases,82.0,79.0,2020-2021,A50-A64,Infections with a predominantly sexual mode of transmission
+A59,Trichomoniasis,12.0,11.0,2020-2021,A50-A64,Infections with a predominantly sexual mode of transmission
+A60,Anogenital herpesviral [herpes simplex] infection,233.0,207.0,2020-2021,A50-A64,Infections with a predominantly sexual mode of transmission
+A63,"Other predominantly sexually transmitted diseases, not elsewhere classified",793.0,59.0,2020-2021,A50-A64,Infections with a predominantly sexual mode of transmission
+A64,Unspecified sexually transmitted disease,15.0,15.0,2020-2021,A50-A64,Infections with a predominantly sexual mode of transmission
+A65,Nonvenereal syphilis,0.0,0.0,2020-2021,A65-A69,Other spirochaetal diseases
+A66,Yaws,1.0,0.0,2020-2021,A65-A69,Other spirochaetal diseases
+A68,Relapsing fevers,24.0,16.0,2020-2021,A65-A69,Other spirochaetal diseases
+A69,Other spirochaetal infections,327.0,150.0,2020-2021,A65-A69,Other spirochaetal diseases
+A70,Chlamydia psittaci infection,2.0,2.0,2020-2021,A70-A74,Other diseases caused by chlamydiae
+A71,Trachoma,0.0,0.0,2020-2021,A70-A74,Other diseases caused by chlamydiae
+A74,Other diseases caused by chlamydiae,33.0,29.0,2020-2021,A70-A74,Other diseases caused by chlamydiae
+A75,Typhus fever,1.0,1.0,2020-2021,A75-A79,Rickettsioses
+A77,Spotted fever [tick-borne rickettsioses],1.0,1.0,2020-2021,A75-A79,Rickettsioses
+A78,Q fever,1.0,1.0,2020-2021,A75-A79,Rickettsioses
+A79,Other rickettsioses,2.0,2.0,2020-2021,A75-A79,Rickettsioses
+A80,Acute poliomyelitis,4.0,2.0,2020-2021,A80-A89,Viral infections of the central nervous system
+A81,Atypical virus infections of central nervous system,104.0,66.0,2020-2021,A80-A89,Viral infections of the central nervous system
+A84,Tick-borne viral encephalitis,1.0,0.0,2020-2021,A80-A89,Viral infections of the central nervous system
+A85,"Other viral encephalitis, not elsewhere classified",35.0,20.0,2020-2021,A80-A89,Viral infections of the central nervous system
+A86,Unspecified viral encephalitis,461.0,428.0,2020-2021,A80-A89,Viral infections of the central nervous system
+A87,Viral meningitis,837.0,801.0,2020-2021,A80-A89,Viral infections of the central nervous system
+A88,"Other viral infections of central nervous system, not elsewhere classified",25.0,24.0,2020-2021,A80-A89,Viral infections of the central nervous system
+A89,Unspecified viral infection of central nervous system,7.0,6.0,2020-2021,A80-A89,Viral infections of the central nervous system
+A96,Arenaviral haemorrhagic fever,1.0,1.0,2020-2021,A92-A99,Arthropod-borne viral fevers & viral haemorrhagic fevers
+A97,Dengue,5.0,5.0,2020-2021,A92-A99,Arthropod-borne viral fevers & viral haemorrhagic fevers
+A99,Unspecified viral haemorrhagic fever,3.0,3.0,2020-2021,A92-A99,Arthropod-borne viral fevers & viral haemorrhagic fevers
+B00,Herpesviral [herpes simplex] infections,1825.0,1617.0,2020-2021,B00-B09,Viral infections characterized by skin & mucous mem. lesns.
+B01,Varicella [chickenpox],702.0,646.0,2020-2021,B00-B09,Viral infections characterized by skin & mucous mem. lesns.
+B02,Zoster [herpes zoster],2882.0,2634.0,2020-2021,B00-B09,Viral infections characterized by skin & mucous mem. lesns.
+B05,Measles,11.0,10.0,2020-2021,B00-B09,Viral infections characterized by skin & mucous mem. lesns.
+B06,Rubella [German measles],5.0,5.0,2020-2021,B00-B09,Viral infections characterized by skin & mucous mem. lesns.
+B07,Viral warts,1680.0,47.0,2020-2021,B00-B09,Viral infections characterized by skin & mucous mem. lesns.
+B08,"Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",503.0,396.0,2020-2021,B00-B09,Viral infections characterized by skin & mucous mem. lesns.
+B09,Unspecified viral infection characterized by skin and mucous membrane lesions,675.0,663.0,2020-2021,B00-B09,Viral infections characterized by skin & mucous mem. lesns.
+B15,Acute hepatitis A,112.0,93.0,2020-2021,B15-B19,Viral hepatitis
+B16,Acute hepatitis B,99.0,88.0,2020-2021,B15-B19,Viral hepatitis
+B17,Other acute viral hepatitis,857.0,716.0,2020-2021,B15-B19,Viral hepatitis
+B18,Chronic viral hepatitis,314.0,112.0,2020-2021,B15-B19,Viral hepatitis
+B19,Unspecified viral hepatitis,121.0,116.0,2020-2021,B15-B19,Viral hepatitis
+B20,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,450.0,342.0,2020-2021,B20-B24,Human immunodeficiency virus [HIV] disease
+B21,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,406.0,40.0,2020-2021,B20-B24,Human immunodeficiency virus [HIV] disease
+B22,Human immunodeficiency virus [HIV] disease resulting in other specified diseases,52.0,36.0,2020-2021,B20-B24,Human immunodeficiency virus [HIV] disease
+B23,Human immunodeficiency virus [HIV] disease resulting in other conditions,183.0,61.0,2020-2021,B20-B24,Human immunodeficiency virus [HIV] disease
+B24,Unspecified human immunodeficiency virus [HIV] disease,166.0,109.0,2020-2021,B20-B24,Human immunodeficiency virus [HIV] disease
+B25,Cytomegaloviral disease,379.0,208.0,2020-2021,B25-B34,Other viral diseases
+B26,Mumps,98.0,95.0,2020-2021,B25-B34,Other viral diseases
+B27,Infectious mononucleosis,1886.0,1709.0,2020-2021,B25-B34,Other viral diseases
+B30,Viral conjunctivitis,59.0,56.0,2020-2021,B25-B34,Other viral diseases
+B33,"Other viral diseases, not elsewhere classified",32.0,25.0,2020-2021,B25-B34,Other viral diseases
+B34,Viral infection of unspecified site,44444.0,43865.0,2020-2021,B25-B34,Other viral diseases
+B35,Dermatophytosis,484.0,295.0,2020-2021,B35-B49,Mycoses
+B36,Other superficial mycoses,159.0,123.0,2020-2021,B35-B49,Mycoses
+B37,Candidiasis,4262.0,1859.0,2020-2021,B35-B49,Mycoses
+B38,Coccidioidomycosis,0.0,0.0,2020-2021,B35-B49,Mycoses
+B39,Histoplasmosis,8.0,4.0,2020-2021,B35-B49,Mycoses
+B40,Blastomycosis,2.0,1.0,2020-2021,B35-B49,Mycoses
+B43,Chromomycosis and phaeomycotic abscess,28.0,26.0,2020-2021,B35-B49,Mycoses
+B44,Aspergillosis,687.0,270.0,2020-2021,B35-B49,Mycoses
+B45,Cryptococcosis,66.0,35.0,2020-2021,B35-B49,Mycoses
+B46,Zygomycosis,9.0,3.0,2020-2021,B35-B49,Mycoses
+B47,Mycetoma,27.0,9.0,2020-2021,B35-B49,Mycoses
+B48,"Other mycoses, not elsewhere classified",13.0,3.0,2020-2021,B35-B49,Mycoses
+B49,Unspecified mycosis,237.0,50.0,2020-2021,B35-B49,Mycoses
+B50,Plasmodium falciparum malaria,246.0,237.0,2020-2021,B50-B64,Protozoal diseases
+B51,Plasmodium vivax malaria,27.0,25.0,2020-2021,B50-B64,Protozoal diseases
+B52,Plasmodium malariae malaria,5.0,5.0,2020-2021,B50-B64,Protozoal diseases
+B53,Other parasitologically confirmed malaria,28.0,26.0,2020-2021,B50-B64,Protozoal diseases
+B54,Unspecified malaria,60.0,58.0,2020-2021,B50-B64,Protozoal diseases
+B55,Leishmaniasis,179.0,18.0,2020-2021,B50-B64,Protozoal diseases
+B57,Chagas disease,1.0,0.0,2020-2021,B50-B64,Protozoal diseases
+B58,Toxoplasmosis,35.0,20.0,2020-2021,B50-B64,Protozoal diseases
+B59,Pneumocystosis,214.0,176.0,2020-2021,B50-B64,Protozoal diseases
+B60,"Other protozoal diseases, not elsewhere classified",13.0,6.0,2020-2021,B50-B64,Protozoal diseases
+B65,Schistosomiasis [bilharziasis],32.0,7.0,2020-2021,B65-B83,Helminthiases
+B67,Echinococcosis,71.0,39.0,2020-2021,B65-B83,Helminthiases
+B68,Taeniasis,2.0,2.0,2020-2021,B65-B83,Helminthiases
+B69,Cysticercosis,6.0,5.0,2020-2021,B65-B83,Helminthiases
+B71,Other cestode infections,8.0,5.0,2020-2021,B65-B83,Helminthiases
+B74,Filariasis,6.0,4.0,2020-2021,B65-B83,Helminthiases
+B76,Hookworm diseases,10.0,3.0,2020-2021,B65-B83,Helminthiases
+B77,Ascariasis,5.0,5.0,2020-2021,B65-B83,Helminthiases
+B78,Strongyloidiasis,1.0,1.0,2020-2021,B65-B83,Helminthiases
+B79,Trichuriasis,2.0,0.0,2020-2021,B65-B83,Helminthiases
+B80,Enterobiasis,292.0,130.0,2020-2021,B65-B83,Helminthiases
+B81,"Other intestinal helminthiases, not elsewhere classified",1.0,1.0,2020-2021,B65-B83,Helminthiases
+B82,Unspecified intestinal parasitism,63.0,15.0,2020-2021,B65-B83,Helminthiases
+B83,Other helminthiases,33.0,22.0,2020-2021,B65-B83,Helminthiases
+B85,Pediculosis and phthiriasis,25.0,24.0,2020-2021,B85-B89,"Pediculosis, acariasis and other infestations"
+B86,Scabies,147.0,137.0,2020-2021,B85-B89,"Pediculosis, acariasis and other infestations"
+B87,Myiasis,27.0,25.0,2020-2021,B85-B89,"Pediculosis, acariasis and other infestations"
+B88,Other infestations,8.0,4.0,2020-2021,B85-B89,"Pediculosis, acariasis and other infestations"
+B89,Unspecified parasitic disease,2.0,2.0,2020-2021,B85-B89,"Pediculosis, acariasis and other infestations"
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,1.0,1.0,2020-2021,B95-B98,"Bacterial, viral and other infectious agents"
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,3.0,2.0,2020-2021,B95-B98,"Bacterial, viral and other infectious agents"
+B97,Viral agents as the cause of diseases classified to other chapters,3.0,2.0,2020-2021,B95-B98,"Bacterial, viral and other infectious agents"
+B99,Other and unspecified infectious diseases,5044.0,4866.0,2020-2021,B99-B99,Other infectious and parasitic diseases
+C00,Malignant neoplasm of lip,339.0,9.0,2020-2021,C00-C14,Malignant neoplasm of lip-oral cavity and pharynx
+C01,Malignant neoplasm of base of tongue,4018.0,386.0,2020-2021,C00-C14,Malignant neoplasm of lip-oral cavity and pharynx
+C02,Malignant neoplasm of other and unspecified parts of tongue,2786.0,254.0,2020-2021,C00-C14,Malignant neoplasm of lip-oral cavity and pharynx
+C03,Malignant neoplasm of gum,677.0,55.0,2020-2021,C00-C14,Malignant neoplasm of lip-oral cavity and pharynx
+C04,Malignant neoplasm of floor of mouth,927.0,90.0,2020-2021,C00-C14,Malignant neoplasm of lip-oral cavity and pharynx
+C05,Malignant neoplasm of palate,599.0,70.0,2020-2021,C00-C14,Malignant neoplasm of lip-oral cavity and pharynx
+C06,Malignant neoplasm of other and unspecified parts of mouth,1110.0,147.0,2020-2021,C00-C14,Malignant neoplasm of lip-oral cavity and pharynx
+C07,Malignant neoplasm of parotid gland,916.0,83.0,2020-2021,C00-C14,Malignant neoplasm of lip-oral cavity and pharynx
+C08,Malignant neoplasm of other and unspecified major salivary glands,262.0,14.0,2020-2021,C00-C14,Malignant neoplasm of lip-oral cavity and pharynx
+C09,Malignant neoplasm of tonsil,5378.0,451.0,2020-2021,C00-C14,Malignant neoplasm of lip-oral cavity and pharynx
+C10,Malignant neoplasm of oropharynx,1485.0,226.0,2020-2021,C00-C14,Malignant neoplasm of lip-oral cavity and pharynx
+C11,Malignant neoplasm of nasopharynx,1468.0,165.0,2020-2021,C00-C14,Malignant neoplasm of lip-oral cavity and pharynx
+C12,Malignant neoplasm of piriform sinus,681.0,96.0,2020-2021,C00-C14,Malignant neoplasm of lip-oral cavity and pharynx
+C13,Malignant neoplasm of hypopharynx,822.0,170.0,2020-2021,C00-C14,Malignant neoplasm of lip-oral cavity and pharynx
+C14,"Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx",461.0,87.0,2020-2021,C00-C14,Malignant neoplasm of lip-oral cavity and pharynx
+C15,Malignant neoplasm of oesophagus,29852.0,4236.0,2020-2021,C15-C26,Malignant neoplasm of digestive organs
+C16,Malignant neoplasm of stomach,18809.0,2547.0,2020-2021,C15-C26,Malignant neoplasm of digestive organs
+C17,Malignant neoplasm of small intestine,4356.0,643.0,2020-2021,C15-C26,Malignant neoplasm of digestive organs
+C18,Malignant neoplasm of colon,80524.0,7611.0,2020-2021,C15-C26,Malignant neoplasm of digestive organs
+C19,Malignant neoplasm of rectosigmoid junction,13006.0,1085.0,2020-2021,C15-C26,Malignant neoplasm of digestive organs
+C20,Malignant neoplasm of rectum,39621.0,2209.0,2020-2021,C15-C26,Malignant neoplasm of digestive organs
+C21,Malignant neoplasm of anus and anal canal,3466.0,435.0,2020-2021,C15-C26,Malignant neoplasm of digestive organs
+C22,Malignant neoplasm of liver and intrahepatic bile ducts,12980.0,2894.0,2020-2021,C15-C26,Malignant neoplasm of digestive organs
+C23,Malignant neoplasm of gallbladder,1534.0,383.0,2020-2021,C15-C26,Malignant neoplasm of digestive organs
+C24,Malignant neoplasm of other and unspecified parts of biliary tract,3453.0,484.0,2020-2021,C15-C26,Malignant neoplasm of digestive organs
+C25,Malignant neoplasm of pancreas,31397.0,5091.0,2020-2021,C15-C26,Malignant neoplasm of digestive organs
+C26,Malignant neoplasm of other and ill-defined digestive organs,711.0,179.0,2020-2021,C15-C26,Malignant neoplasm of digestive organs
+C30,Malignant neoplasm of nasal cavity and middle ear,594.0,53.0,2020-2021,C30-C39,Malignant neoplasms of respiratory & intrathoracic organs
+C31,Malignant neoplasm of accessory sinuses,789.0,112.0,2020-2021,C30-C39,Malignant neoplasms of respiratory & intrathoracic organs
+C32,Malignant neoplasm of larynx,3588.0,623.0,2020-2021,C30-C39,Malignant neoplasms of respiratory & intrathoracic organs
+C33,Malignant neoplasm of trachea,114.0,15.0,2020-2021,C30-C39,Malignant neoplasms of respiratory & intrathoracic organs
+C34,Malignant neoplasm of bronchus and lung,87242.0,12962.0,2020-2021,C30-C39,Malignant neoplasms of respiratory & intrathoracic organs
+C37,Malignant neoplasm of thymus,563.0,42.0,2020-2021,C30-C39,Malignant neoplasms of respiratory & intrathoracic organs
+C38,"Malignant neoplasm of heart, mediastinum and pleura",843.0,123.0,2020-2021,C30-C39,Malignant neoplasms of respiratory & intrathoracic organs
+C39,Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs,21.0,5.0,2020-2021,C30-C39,Malignant neoplasms of respiratory & intrathoracic organs
+C40,Malignant neoplasm of bone and articular cartilage of limbs,3850.0,254.0,2020-2021,C40-C41,Malignant neoplasm of bone and articular cartilage
+C41,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,3725.0,362.0,2020-2021,C40-C41,Malignant neoplasm of bone and articular cartilage
+C43,Malignant melanoma of skin,20783.0,780.0,2020-2021,C43-C44,Malignant neoplasms of skin
+C44,Other malignant neoplasms of skin,102217.0,607.0,2020-2021,C43-C44,Malignant neoplasms of skin
+C45,Mesothelioma,7349.0,1226.0,2020-2021,C45-C49,Malignant neoplasms of mesothelial and soft tissue
+C46,Kaposi sarcoma,126.0,12.0,2020-2021,C45-C49,Malignant neoplasms of mesothelial and soft tissue
+C47,Malignant neoplasm of peripheral nerves and autonomic nervous system,387.0,23.0,2020-2021,C45-C49,Malignant neoplasms of mesothelial and soft tissue
+C48,Malignant neoplasm of retroperitoneum and peritoneum,4438.0,449.0,2020-2021,C45-C49,Malignant neoplasms of mesothelial and soft tissue
+C49,Malignant neoplasm of other connective and soft tissue,7681.0,643.0,2020-2021,C45-C49,Malignant neoplasms of mesothelial and soft tissue
+C50,Malignant neoplasm of breast,201967.0,3589.0,2020-2021,C50-C50,Malignant neoplasm of breast
+C51,Malignant neoplasm of vulva,2231.0,187.0,2020-2021,,
+C52,Malignant neoplasm of vagina,823.0,100.0,2020-2021,,
+C53,Malignant neoplasm of cervix uteri,7701.0,757.0,2020-2021,,
+‡ C54,Malignant neoplasm of corpus uteri,15308.0,987.0,2020-2021,,
+‡ C55,"Malignant neoplasm of uterus, part unspecified",1493.0,172.0,2020-2021,,
+‡ C56,Malignant neoplasm of ovary,30305.0,2341.0,2020-2021,,
+C57,Malignant neoplasm of other and unspecified female genital organs,4524.0,252.0,2020-2021,,
+C58,Malignant neoplasm of placenta,196.0,18.0,2020-2021,,
+C60,Malignant neoplasm of penis,1143.0,112.0,2020-2021,,
+‡ C61,Malignant neoplasm of prostate,56106.0,4245.0,2020-2021,,
+C62,Malignant neoplasm of testis,4742.0,298.0,2020-2021,,
+C63,Malignant neoplasm of other and unspecified male genital organs,139.0,8.0,2020-2021,,
+C64,"Malignant neoplasm of kidney, except renal pelvis",18185.0,2118.0,2020-2021,C64-C68,Malignant neoplasms of urinary tract
+C65,Malignant neoplasm of renal pelvis,1430.0,83.0,2020-2021,C64-C68,Malignant neoplasms of urinary tract
+C66,Malignant neoplasm of ureter,1969.0,166.0,2020-2021,C64-C68,Malignant neoplasms of urinary tract
+C67,Malignant neoplasm of bladder,53201.0,3089.0,2020-2021,C64-C68,Malignant neoplasms of urinary tract
+C68,Malignant neoplasm of other and unspecified urinary organs,454.0,37.0,2020-2021,C64-C68,Malignant neoplasms of urinary tract
+C69,Malignant neoplasm of eye and adnexa,2325.0,96.0,2020-2021,C69-C72,"Malignant neoplasms of eye, brain & other parts of CNS"
+C70,Malignant neoplasm of meninges,147.0,76.0,2020-2021,C69-C72,"Malignant neoplasms of eye, brain & other parts of CNS"
+C71,Malignant neoplasm of brain,15148.0,4093.0,2020-2021,C69-C72,"Malignant neoplasms of eye, brain & other parts of CNS"
+C72,"Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system",2612.0,125.0,2020-2021,C69-C72,"Malignant neoplasms of eye, brain & other parts of CNS"
+C73,Malignant neoplasm of thyroid gland,5851.0,244.0,2020-2021,C73-C75,Malignant neoplasms of thyroid and other endocrine glands
+C74,Malignant neoplasm of adrenal gland,2453.0,199.0,2020-2021,C73-C75,Malignant neoplasms of thyroid and other endocrine glands
+C75,Malignant neoplasm of other endocrine glands and related structures,496.0,72.0,2020-2021,C73-C75,Malignant neoplasms of thyroid and other endocrine glands
+C76,Malignant neoplasm of other and ill-defined sites,1606.0,257.0,2020-2021,C76-C80,"Malignant neoplasms of ill-defined, secondary and unspecified sites"
+C77,Secondary and unspecified malignant neoplasm of lymph nodes,19037.0,710.0,2020-2021,C76-C80,"Malignant neoplasms of ill-defined, secondary and unspecified sites"
+C78,Secondary malignant neoplasm of respiratory and digestive organs,70461.0,11868.0,2020-2021,C76-C80,"Malignant neoplasms of ill-defined, secondary and unspecified sites"
+C79,Secondary malignant neoplasm of other and unspecified sites,52758.0,13237.0,2020-2021,C76-C80,"Malignant neoplasms of ill-defined, secondary and unspecified sites"
+C80,Malignant neoplasm without specification of site,7285.0,2867.0,2020-2021,C76-C80,"Malignant neoplasms of ill-defined, secondary and unspecified sites"
+C81,Hodgkin lymphoma,19252.0,675.0,2020-2021,C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss."
+C82,Follicular lymphoma,16783.0,631.0,2020-2021,C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss."
+C83,Non-follicular lymphoma,45993.0,3605.0,2020-2021,C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss."
+C84,Mature T/NK-cell lymphomas,3863.0,385.0,2020-2021,C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss."
+C85,Other and unspecified types of non-Hodgkin lymphoma,11527.0,1398.0,2020-2021,C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss."
+C86,Other specified types of T/NK-cell lymphoma,1820.0,143.0,2020-2021,C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss."
+C88,Malignant immunoproliferative diseases,6050.0,219.0,2020-2021,C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss."
+C90,Multiple myeloma and malignant plasma cell neoplasms,107583.0,3689.0,2020-2021,C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss."
+C91,Lymphoid leukaemia,51540.0,3572.0,2020-2021,C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss."
+C92,Myeloid leukaemia,57665.0,3686.0,2020-2021,C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss."
+C93,Monocytic leukaemia,7891.0,290.0,2020-2021,C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss."
+C94,Other leukaemias of specified cell type,906.0,63.0,2020-2021,C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss."
+C95,Leukaemia of unspecified cell type,861.0,227.0,2020-2021,C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss."
+C96,"Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",1390.0,93.0,2020-2021,C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss."
+C97,Malignant neoplasms of independent (primary) multiple sites,18576.0,630.0,2020-2021,C97-C97,Malignant neoplasms of independent (primary) multiple sites
+D00,"Carcinoma in situ of oral cavity, oesophagus and stomach",398.0,8.0,2020-2021,D00-D09,In situ neoplasms
+D01,Carcinoma in situ of other and unspecified digestive organs,773.0,19.0,2020-2021,D00-D09,In situ neoplasms
+D02,Carcinoma in situ of middle ear and respiratory system,419.0,17.0,2020-2021,D00-D09,In situ neoplasms
+D03,Melanoma in situ,3734.0,10.0,2020-2021,D00-D09,In situ neoplasms
+D04,Carcinoma in situ of skin,5170.0,21.0,2020-2021,D00-D09,In situ neoplasms
+D05,Carcinoma in situ of breast,5369.0,17.0,2020-2021,D00-D09,In situ neoplasms
+D06,Carcinoma in situ of cervix uteri,2741.0,19.0,2020-2021,D00-D09,In situ neoplasms
+D07,Carcinoma in situ of other and unspecified genital organs,1823.0,19.0,2020-2021,D00-D09,In situ neoplasms
+D09,Carcinoma in situ of other and unspecified sites,2462.0,37.0,2020-2021,D00-D09,In situ neoplasms
+D10,Benign neoplasm of mouth and pharynx,1693.0,26.0,2020-2021,D10-D36,Benign neoplasms
+D11,Benign neoplasm of major salivary glands,1690.0,28.0,2020-2021,D10-D36,Benign neoplasms
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",105341.0,282.0,2020-2021,D10-D36,Benign neoplasms
+D13,Benign neoplasm of other and ill-defined parts of digestive system,3040.0,133.0,2020-2021,D10-D36,Benign neoplasms
+D14,Benign neoplasm of middle ear and respiratory system,1958.0,46.0,2020-2021,D10-D36,Benign neoplasms
+D15,Benign neoplasm of other and unspecified intrathoracic organs,498.0,95.0,2020-2021,D10-D36,Benign neoplasms
+D16,Benign neoplasm of bone and articular cartilage,1536.0,87.0,2020-2021,D10-D36,Benign neoplasms
+D17,Benign lipomatous neoplasm,8174.0,379.0,2020-2021,D10-D36,Benign neoplasms
+D18,"Haemangioma and lymphangioma, any site",5539.0,1025.0,2020-2021,D10-D36,Benign neoplasms
+D19,Benign neoplasm of mesothelial tissue,45.0,8.0,2020-2021,D10-D36,Benign neoplasms
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,34.0,1.0,2020-2021,D10-D36,Benign neoplasms
+D21,Other benign neoplasms of connective and other soft tissue,1288.0,37.0,2020-2021,D10-D36,Benign neoplasms
+D22,Melanocytic naevi,14397.0,201.0,2020-2021,D10-D36,Benign neoplasms
+D23,Other benign neoplasms of skin,6057.0,77.0,2020-2021,D10-D36,Benign neoplasms
+D24,Benign neoplasm of breast,5179.0,34.0,2020-2021,D10-D36,Benign neoplasms
+‡ D25,Leiomyoma of uterus,14887.0,2568.0,2020-2021,,
+‡ D26,Other benign neoplasms of uterus,554.0,31.0,2020-2021,,
+‡ D27,Benign neoplasm of ovary,5821.0,1056.0,2020-2021,,
+D28,Benign neoplasm of other and unspecified female genital organs,314.0,34.0,2020-2021,D10-D36,Benign neoplasms
+D29,Benign neoplasm of male genital organs,350.0,10.0,2020-2021,D10-D36,Benign neoplasms
+D30,Benign neoplasm of urinary organs,993.0,30.0,2020-2021,D10-D36,Benign neoplasms
+D31,Benign neoplasm of eye and adnexa,334.0,7.0,2020-2021,D10-D36,Benign neoplasms
+D32,Benign neoplasm of meninges,3391.0,1365.0,2020-2021,D10-D36,Benign neoplasms
+D33,Benign neoplasm of brain and other parts of central nervous system,1546.0,277.0,2020-2021,D10-D36,Benign neoplasms
+D34,Benign neoplasm of thyroid gland,1112.0,9.0,2020-2021,D10-D36,Benign neoplasms
+D35,Benign neoplasm of other and unspecified endocrine glands,5796.0,505.0,2020-2021,D10-D36,Benign neoplasms
+D36,Benign neoplasm of other and unspecified sites,1788.0,109.0,2020-2021,D10-D36,Benign neoplasms
+D37,Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs,6617.0,982.0,2020-2021,D37-D48,Neoplasms of uncertain or unknown behaviour
+D38,Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs,912.0,148.0,2020-2021,D37-D48,Neoplasms of uncertain or unknown behaviour
+‡ D39,Neoplasm of uncertain or unknown behaviour of female genital organs,1595.0,205.0,2020-2021,,
+‡ D40,Neoplasm of uncertain or unknown behaviour of male genital organs,385.0,58.0,2020-2021,,
+D41,Neoplasm of uncertain or unknown behaviour of urinary organs,3929.0,274.0,2020-2021,D37-D48,Neoplasms of uncertain or unknown behaviour
+D42,Neoplasm of uncertain or unknown behaviour of meninges,130.0,74.0,2020-2021,D37-D48,Neoplasms of uncertain or unknown behaviour
+D43,Neoplasm of uncertain or unknown behaviour of brain and central nervous system,2036.0,1332.0,2020-2021,D37-D48,Neoplasms of uncertain or unknown behaviour
+D44,Neoplasm of uncertain or unknown behaviour of endocrine glands,1165.0,188.0,2020-2021,D37-D48,Neoplasms of uncertain or unknown behaviour
+D45,Polycythaemia vera,11287.0,157.0,2020-2021,D37-D48,Neoplasms of uncertain or unknown behaviour
+D46,Myelodysplastic syndromes,52088.0,2028.0,2020-2021,D37-D48,Neoplasms of uncertain or unknown behaviour
+D47,"Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",15559.0,799.0,2020-2021,D37-D48,Neoplasms of uncertain or unknown behaviour
+D48,Neoplasm of uncertain or unknown behaviour of other and unspecified sites,4013.0,342.0,2020-2021,D37-D48,Neoplasms of uncertain or unknown behaviour
+D50,Iron deficiency anaemia,111235.0,29646.0,2020-2021,D50-D53,Nutritional anaemias
+D51,Vitamin B12 deficiency anaemia,503.0,241.0,2020-2021,D50-D53,Nutritional anaemias
+D52,Folate deficiency anaemia,2880.0,1285.0,2020-2021,D50-D53,Nutritional anaemias
+D53,Other nutritional anaemias,329.0,247.0,2020-2021,D50-D53,Nutritional anaemias
+D55,Anaemia due to enzyme disorders,350.0,65.0,2020-2021,D55-D59,Haemolytic anaemias
+D56,Thalassaemia,15226.0,247.0,2020-2021,D55-D59,Haemolytic anaemias
+D57,Sickle-cell disorders,24675.0,8891.0,2020-2021,D55-D59,Haemolytic anaemias
+D58,Other hereditary haemolytic anaemias,1392.0,310.0,2020-2021,D55-D59,Haemolytic anaemias
+D59,Acquired haemolytic anaemia,5088.0,835.0,2020-2021,D55-D59,Haemolytic anaemias
+D60,Acquired pure red cell aplasia [erythroblastopenia],848.0,38.0,2020-2021,D60-D64,Aplastic and other anaemias
+D61,Other aplastic anaemias,14550.0,2685.0,2020-2021,D60-D64,Aplastic and other anaemias
+D62,Acute posthaemorrhagic anaemia,170.0,156.0,2020-2021,D60-D64,Aplastic and other anaemias
+D63,Anaemia in chronic diseases classified elsewhere,9702.0,2300.0,2020-2021,D60-D64,Aplastic and other anaemias
+D64,Other anaemias,59744.0,18603.0,2020-2021,D60-D64,Aplastic and other anaemias
+D65,Disseminated intravascular coagulation [defibrination syndrome],74.0,41.0,2020-2021,D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions"
+D66,Hereditary factor VIII deficiency,2090.0,243.0,2020-2021,D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions"
+D67,Hereditary factor IX deficiency,335.0,49.0,2020-2021,D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions"
+D68,Other coagulation defects,2460.0,475.0,2020-2021,D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions"
+D69,Purpura and other haemorrhagic conditions,18919.0,5295.0,2020-2021,D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions"
+D70,Agranulocytosis,5419.0,3620.0,2020-2021,D70-D77,Other diseases of blood and blood-forming organs
+D71,Functional disorders of polymorphonuclear neutrophils,135.0,27.0,2020-2021,D70-D77,Other diseases of blood and blood-forming organs
+D72,Other disorders of white blood cells,983.0,291.0,2020-2021,D70-D77,Other diseases of blood and blood-forming organs
+D73,Diseases of spleen,646.0,463.0,2020-2021,D70-D77,Other diseases of blood and blood-forming organs
+D74,Methaemoglobinaemia,138.0,110.0,2020-2021,D70-D77,Other diseases of blood and blood-forming organs
+D75,Other diseases of blood and blood-forming organs,13698.0,354.0,2020-2021,D70-D77,Other diseases of blood and blood-forming organs
+D76,Other specified diseases with participation of lymphoreticular and reticulohistiocytic tissue,643.0,100.0,2020-2021,D70-D77,Other diseases of blood and blood-forming organs
+D80,Immunodeficiency with predominantly antibody defects,13104.0,59.0,2020-2021,D80-D89,Certain disorders involving the immune mechanism
+D81,Combined immunodeficiencies,693.0,43.0,2020-2021,D80-D89,Certain disorders involving the immune mechanism
+D82,Immunodeficiency associated with other major defects,337.0,42.0,2020-2021,D80-D89,Certain disorders involving the immune mechanism
+D83,Common variable immunodeficiency,6226.0,12.0,2020-2021,D80-D89,Certain disorders involving the immune mechanism
+D84,Other immunodeficiencies,2139.0,322.0,2020-2021,D80-D89,Certain disorders involving the immune mechanism
+D86,Sarcoidosis,2490.0,492.0,2020-2021,D80-D89,Certain disorders involving the immune mechanism
+D89,"Other disorders involving the immune mechanism, not elsewhere classified",1022.0,97.0,2020-2021,D80-D89,Certain disorders involving the immune mechanism
+E00,Congenital iodine-deficiency syndrome,1.0,0.0,2020-2021,E00-E07,Disorders of thyroid gland
+E01,Iodine-deficiency-related thyroid disorders and allied conditions,2.0,0.0,2020-2021,E00-E07,Disorders of thyroid gland
+E02,Subclinical iodine-deficiency hypothyroidism,44.0,35.0,2020-2021,E00-E07,Disorders of thyroid gland
+E03,Other hypothyroidism,2072.0,885.0,2020-2021,E00-E07,Disorders of thyroid gland
+E04,Other nontoxic goitre,4750.0,376.0,2020-2021,E00-E07,Disorders of thyroid gland
+E05,Thyrotoxicosis [hyperthyroidism],4628.0,2325.0,2020-2021,E00-E07,Disorders of thyroid gland
+E06,Thyroiditis,510.0,230.0,2020-2021,E00-E07,Disorders of thyroid gland
+E07,Other disorders of thyroid,341.0,47.0,2020-2021,E00-E07,Disorders of thyroid gland
+E10,Type 1 diabetes mellitus,25030.0,23060.0,2020-2021,E10-E14,Diabetes Mellitus
+E11,Type 2 diabetes mellitus,27637.0,24194.0,2020-2021,E10-E14,Diabetes Mellitus
+E12,Malnutrition-related diabetes mellitus,9.0,9.0,2020-2021,E10-E14,Diabetes Mellitus
+E13,Other specified diabetes mellitus,457.0,406.0,2020-2021,E10-E14,Diabetes Mellitus
+E14,Unspecified diabetes mellitus,1678.0,1402.0,2020-2021,E10-E14,Diabetes Mellitus
+E15,Nondiabetic hypoglycaemic coma,7.0,6.0,2020-2021,E15-E16,Other disorders of glucose regulation and pancreatic internal secretion
+E16,Other disorders of pancreatic internal secretion,13037.0,11828.0,2020-2021,E15-E16,Other disorders of glucose regulation and pancreatic internal secretion
+E20,Hypoparathyroidism,187.0,53.0,2020-2021,E20-E35,Disorders of other endocrine glands
+E21,Hyperparathyroidism and other disorders of parathyroid gland,2234.0,674.0,2020-2021,E20-E35,Disorders of other endocrine glands
+E22,Hyperfunction of pituitary gland,3686.0,1190.0,2020-2021,E20-E35,Disorders of other endocrine glands
+E23,Hypofunction and other disorders of pituitary gland,2839.0,375.0,2020-2021,E20-E35,Disorders of other endocrine glands
+E24,Cushing syndrome,703.0,67.0,2020-2021,E20-E35,Disorders of other endocrine glands
+E25,Adrenogenital disorders,454.0,66.0,2020-2021,E20-E35,Disorders of other endocrine glands
+E26,Hyperaldosteronism,433.0,33.0,2020-2021,E20-E35,Disorders of other endocrine glands
+E27,Other disorders of adrenal gland,5754.0,1773.0,2020-2021,E20-E35,Disorders of other endocrine glands
+‡ E28,Ovarian dysfunction,1028.0,549.0,2020-2021,,
+‡ E29,Testicular dysfunction,977.0,17.0,2020-2021,,
+E30,"Disorders of puberty, not elsewhere classified",2571.0,71.0,2020-2021,E20-E35,Disorders of other endocrine glands
+E31,Polyglandular dysfunction,28.0,7.0,2020-2021,E20-E35,Disorders of other endocrine glands
+E32,Diseases of thymus,107.0,11.0,2020-2021,E20-E35,Disorders of other endocrine glands
+E34,Other endocrine disorders,1806.0,102.0,2020-2021,E20-E35,Disorders of other endocrine glands
+E40,Kwashiorkor,1.0,1.0,2020-2021,E40-E46,Malnutrition
+E41,Nutritional marasmus,18.0,18.0,2020-2021,E40-E46,Malnutrition
+E42,Marasmic kwashiorkor,1.0,1.0,2020-2021,E40-E46,Malnutrition
+E43,Unspecified severe protein-energy malnutrition,94.0,85.0,2020-2021,E40-E46,Malnutrition
+E44,Protein-energy malnutrition of moderate and mild degree,4.0,3.0,2020-2021,E40-E46,Malnutrition
+E45,Retarded development following protein-energy malnutrition,1.0,0.0,2020-2021,E40-E46,Malnutrition
+E46,Unspecified protein-energy malnutrition,673.0,536.0,2020-2021,E40-E46,Malnutrition
+E50,Vitamin A deficiency,35.0,7.0,2020-2021,E50-E64,Other nutritional deficiencies
+E51,Thiamine deficiency,274.0,232.0,2020-2021,E50-E64,Other nutritional deficiencies
+E52,Niacin deficiency [pellagra],2.0,2.0,2020-2021,E50-E64,Other nutritional deficiencies
+E53,Deficiency of other B group vitamins,1112.0,511.0,2020-2021,E50-E64,Other nutritional deficiencies
+E54,Ascorbic acid deficiency,7.0,6.0,2020-2021,E50-E64,Other nutritional deficiencies
+E55,Vitamin D deficiency,728.0,364.0,2020-2021,E50-E64,Other nutritional deficiencies
+E56,Other vitamin deficiencies,106.0,20.0,2020-2021,E50-E64,Other nutritional deficiencies
+E58,Dietary calcium deficiency,16.0,13.0,2020-2021,E50-E64,Other nutritional deficiencies
+E59,Dietary selenium deficiency,9.0,1.0,2020-2021,E50-E64,Other nutritional deficiencies
+E60,Dietary zinc deficiency,4.0,1.0,2020-2021,E50-E64,Other nutritional deficiencies
+E61,Deficiency of other nutrient elements,4145.0,350.0,2020-2021,E50-E64,Other nutritional deficiencies
+E63,Other nutritional deficiencies,85.0,62.0,2020-2021,E50-E64,Other nutritional deficiencies
+E64,Sequelae of malnutrition and other nutritional deficiencies,2.0,0.0,2020-2021,E50-E64,Other nutritional deficiencies
+E65,Localized adiposity,28.0,15.0,2020-2021,E65-E68,Obesity and other hyperalimentation
+E66,Obesity,4048.0,488.0,2020-2021,E65-E68,Obesity and other hyperalimentation
+E67,Other hyperalimentation,19.0,15.0,2020-2021,E65-E68,Obesity and other hyperalimentation
+E70,Disorders of aromatic amino-acid metabolism,90.0,12.0,2020-2021,E70-E90,Metabolic disorders
+E71,Disorders of branched-chain amino-acid metabolism and fatty-acid metabolism,370.0,171.0,2020-2021,E70-E90,Metabolic disorders
+E72,Other disorders of amino-acid metabolism,396.0,185.0,2020-2021,E70-E90,Metabolic disorders
+E73,Lactose intolerance,157.0,77.0,2020-2021,E70-E90,Metabolic disorders
+E74,Other disorders of carbohydrate metabolism,560.0,48.0,2020-2021,E70-E90,Metabolic disorders
+E75,Disorders of sphingolipid metabolism and other lipid storage disorders,1031.0,45.0,2020-2021,E70-E90,Metabolic disorders
+E76,Disorders of glycosaminoglycan metabolism,453.0,12.0,2020-2021,E70-E90,Metabolic disorders
+E77,Disorders of glycoprotein metabolism,38.0,7.0,2020-2021,E70-E90,Metabolic disorders
+E78,Disorders of lipoprotein metabolism and other lipidaemias,849.0,254.0,2020-2021,E70-E90,Metabolic disorders
+E79,Disorders of purine and pyrimidine metabolism,10.0,6.0,2020-2021,E70-E90,Metabolic disorders
+E80,Disorders of porphyrin and bilirubin metabolism,708.0,302.0,2020-2021,E70-E90,Metabolic disorders
+E83,Disorders of mineral metabolism,85776.0,13997.0,2020-2021,E70-E90,Metabolic disorders
+E84,Cystic fibrosis,6761.0,1611.0,2020-2021,E70-E90,Metabolic disorders
+E85,Amyloidosis,3288.0,463.0,2020-2021,E70-E90,Metabolic disorders
+E86,Volume depletion,8628.0,7917.0,2020-2021,E70-E90,Metabolic disorders
+E87,"Other disorders of fluid, electrolyte and acid-base balance",47275.0,43516.0,2020-2021,E70-E90,Metabolic disorders
+E88,Other metabolic disorders,969.0,521.0,2020-2021,E70-E90,Metabolic disorders
+E89,"Postprocedural endocrine and metabolic disorders, not elsewhere classified",571.0,94.0,2020-2021,E70-E90,Metabolic disorders
+E90,Nutritional and metabolic disorders in diseases classified elsewhere,4.0,3.0,2020-2021,E70-E90,Metabolic disorders
+F00,Dementia in Alzheimer disease,1357.0,1065.0,2020-2021,F00-F09,"Organic, including symptomatic, mental disorders"
+F01,Vascular dementia,2821.0,2529.0,2020-2021,F00-F09,"Organic, including symptomatic, mental disorders"
+F02,Dementia in other diseases classified elsewhere,251.0,204.0,2020-2021,F00-F09,"Organic, including symptomatic, mental disorders"
+F03,Unspecified dementia,4156.0,3889.0,2020-2021,F00-F09,"Organic, including symptomatic, mental disorders"
+F04,"Organic amnesic syndrome, not induced by alcohol and other psychoactive substances",12.0,9.0,2020-2021,F00-F09,"Organic, including symptomatic, mental disorders"
+F05,"Delirium, not induced by alcohol and other psychoactive substances",24737.0,24026.0,2020-2021,F00-F09,"Organic, including symptomatic, mental disorders"
+F06,Other mental disorders due to brain damage and dysfunction and to physical disease,2937.0,532.0,2020-2021,F00-F09,"Organic, including symptomatic, mental disorders"
+F07,"Personality and behavioural disorders due to brain disease, damage and dysfunction",511.0,476.0,2020-2021,F00-F09,"Organic, including symptomatic, mental disorders"
+F09,Unspecified organic or symptomatic mental disorder,51.0,39.0,2020-2021,F00-F09,"Organic, including symptomatic, mental disorders"
+F10,Mental and behavioural disorders due to use of alcohol,39684.0,39015.0,2020-2021,F10-F19,Mental and behavioural disorders due to psychoactive subst.
+F11,Mental and behavioural disorders due to use of opioids,851.0,764.0,2020-2021,F10-F19,Mental and behavioural disorders due to psychoactive subst.
+F12,Mental and behavioural disorders due to use of cannabinoids,1256.0,1099.0,2020-2021,F10-F19,Mental and behavioural disorders due to psychoactive subst.
+F13,Mental and behavioural disorders due to use of sedatives or hypnotics,346.0,334.0,2020-2021,F10-F19,Mental and behavioural disorders due to psychoactive subst.
+F14,Mental and behavioural disorders due to use of cocaine,656.0,627.0,2020-2021,F10-F19,Mental and behavioural disorders due to psychoactive subst.
+F15,"Mental and behavioural disorders due to use of other stimulants, including caffeine",464.0,447.0,2020-2021,F10-F19,Mental and behavioural disorders due to psychoactive subst.
+F16,Mental and behavioural disorders due to use of hallucinogens,167.0,166.0,2020-2021,F10-F19,Mental and behavioural disorders due to psychoactive subst.
+F17,Mental and behavioural disorders due to use of tobacco,514.0,275.0,2020-2021,F10-F19,Mental and behavioural disorders due to psychoactive subst.
+F18,Mental and behavioural disorders due to use of volatile solvents,15.0,13.0,2020-2021,F10-F19,Mental and behavioural disorders due to psychoactive subst.
+F19,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,3324.0,2981.0,2020-2021,F10-F19,Mental and behavioural disorders due to psychoactive subst.
+F20,Schizophrenia,7543.0,5722.0,2020-2021,F20-F29,"Schizophrenia, schizotypal and delusional disorders"
+F21,Schizotypal disorder,49.0,41.0,2020-2021,F20-F29,"Schizophrenia, schizotypal and delusional disorders"
+F22,Persistent delusional disorders,1433.0,1264.0,2020-2021,F20-F29,"Schizophrenia, schizotypal and delusional disorders"
+F23,Acute and transient psychotic disorders,2958.0,2538.0,2020-2021,F20-F29,"Schizophrenia, schizotypal and delusional disorders"
+F24,Induced delusional disorder,7.0,6.0,2020-2021,F20-F29,"Schizophrenia, schizotypal and delusional disorders"
+F25,Schizoaffective disorders,2903.0,2136.0,2020-2021,F20-F29,"Schizophrenia, schizotypal and delusional disorders"
+F28,Other nonorganic psychotic disorders,78.0,65.0,2020-2021,F20-F29,"Schizophrenia, schizotypal and delusional disorders"
+F29,Unspecified nonorganic psychosis,3516.0,2846.0,2020-2021,F20-F29,"Schizophrenia, schizotypal and delusional disorders"
+F30,Manic episode,792.0,673.0,2020-2021,F30-F39,Mood [affective] disorders
+F31,Bipolar affective disorder,5309.0,4138.0,2020-2021,F30-F39,Mood [affective] disorders
+F32,Depressive episode,8451.0,7261.0,2020-2021,F30-F39,Mood [affective] disorders
+F33,Recurrent depressive disorder,1394.0,1033.0,2020-2021,F30-F39,Mood [affective] disorders
+F34,Persistent mood [affective] disorders,101.0,80.0,2020-2021,F30-F39,Mood [affective] disorders
+F38,Other mood [affective] disorders,53.0,29.0,2020-2021,F30-F39,Mood [affective] disorders
+F39,Unspecified mood [affective] disorder,109.0,93.0,2020-2021,F30-F39,Mood [affective] disorders
+F40,Phobic anxiety disorders,67.0,41.0,2020-2021,F40-F48,"Neurotic, stress-related and somatoform disorders"
+F41,Other anxiety disorders,12313.0,11764.0,2020-2021,F40-F48,"Neurotic, stress-related and somatoform disorders"
+F42,Obsessive-compulsive disorder,282.0,210.0,2020-2021,F40-F48,"Neurotic, stress-related and somatoform disorders"
+F43,"Reaction to severe stress, and adjustment disorders",2995.0,2464.0,2020-2021,F40-F48,"Neurotic, stress-related and somatoform disorders"
+F44,Dissociative [conversion] disorders,2650.0,2265.0,2020-2021,F40-F48,"Neurotic, stress-related and somatoform disorders"
+F45,Somatoform disorders,849.0,484.0,2020-2021,F40-F48,"Neurotic, stress-related and somatoform disorders"
+F48,Other neurotic disorders,42.0,38.0,2020-2021,F40-F48,"Neurotic, stress-related and somatoform disorders"
+F50,Eating disorders,4597.0,3737.0,2020-2021,F50-F59,Behavioural syndromes associated with physiological disturbances and physical factors
+F51,Nonorganic sleep disorders,162.0,52.0,2020-2021,F50-F59,Behavioural syndromes associated with physiological disturbances and physical factors
+F52,"Sexual dysfunction, not caused by organic disorder or disease",133.0,8.0,2020-2021,F50-F59,Behavioural syndromes associated with physiological disturbances and physical factors
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",257.0,139.0,2020-2021,F50-F59,Behavioural syndromes associated with physiological disturbances and physical factors
+F54,Psychological and behavioural factors associated with disorders or diseases classified elsewhere,32.0,24.0,2020-2021,F50-F59,Behavioural syndromes associated with physiological disturbances and physical factors
+F55,Abuse of non-dependence-producing substances,10.0,10.0,2020-2021,F50-F59,Behavioural syndromes associated with physiological disturbances and physical factors
+F59,Unspecified behavioural syndromes associated with physiological disturbances and physical factors,9.0,7.0,2020-2021,F50-F59,Behavioural syndromes associated with physiological disturbances and physical factors
+F60,Specific personality disorders,6081.0,4969.0,2020-2021,F60-F69,Disorders of adult personality and behaviour
+F61,Mixed and other personality disorders,290.0,221.0,2020-2021,F60-F69,Disorders of adult personality and behaviour
+F62,"Enduring personality changes, not attributable to brain damage and disease",23.0,19.0,2020-2021,F60-F69,Disorders of adult personality and behaviour
+F63,Habit and impulse disorders,14.0,11.0,2020-2021,F60-F69,Disorders of adult personality and behaviour
+F64,Gender identity disorders,721.0,11.0,2020-2021,F60-F69,Disorders of adult personality and behaviour
+F65,Disorders of sexual preference,2.0,0.0,2020-2021,F60-F69,Disorders of adult personality and behaviour
+F66,Psychological and behavioural disorders associated with sexual development and orientation,3.0,0.0,2020-2021,F60-F69,Disorders of adult personality and behaviour
+F68,Other disorders of adult personality and behaviour,33.0,30.0,2020-2021,F60-F69,Disorders of adult personality and behaviour
+F69,Unspecified disorder of adult personality and behaviour,29.0,26.0,2020-2021,F60-F69,Disorders of adult personality and behaviour
+F70,Mild mental retardation,146.0,105.0,2020-2021,F70-F79,Mental retardation
+F71,Moderate mental retardation,45.0,25.0,2020-2021,F70-F79,Mental retardation
+F72,Severe mental retardation,28.0,13.0,2020-2021,F70-F79,Mental retardation
+F73,Profound mental retardation,3.0,3.0,2020-2021,F70-F79,Mental retardation
+F78,Other mental retardation,1.0,1.0,2020-2021,F70-F79,Mental retardation
+F79,Unspecified mental retardation,55.0,35.0,2020-2021,F70-F79,Mental retardation
+F80,Specific developmental disorders of speech and language,258.0,102.0,2020-2021,F80-F89,Disorders of psychological development
+F81,Specific developmental disorders of scholastic skills,128.0,59.0,2020-2021,F80-F89,Disorders of psychological development
+F82,Specific developmental disorder of motor function,104.0,16.0,2020-2021,F80-F89,Disorders of psychological development
+F83,Mixed specific developmental disorders,46.0,3.0,2020-2021,F80-F89,Disorders of psychological development
+F84,Pervasive developmental disorders,840.0,461.0,2020-2021,F80-F89,Disorders of psychological development
+F88,Other disorders of psychological development,12.0,1.0,2020-2021,F80-F89,Disorders of psychological development
+F89,Unspecified disorder of psychological development,459.0,48.0,2020-2021,F80-F89,Disorders of psychological development
+F90,Hyperkinetic disorders,232.0,178.0,2020-2021,F90-F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+F91,Conduct disorders,161.0,142.0,2020-2021,F90-F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+F92,Mixed disorders of conduct and emotions,59.0,37.0,2020-2021,F90-F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+F93,Emotional disorders with onset specific to childhood,41.0,27.0,2020-2021,F90-F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+F94,Disorders of social functioning with onset specific to childhood and adolescence,32.0,24.0,2020-2021,F90-F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+F95,Tic disorders,658.0,598.0,2020-2021,F90-F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+F98,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,282.0,183.0,2020-2021,F90-F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+F99,"Mental disorder, not otherwise specified",618.0,527.0,2020-2021,F99-F99,Unspecified mental disorder
+G00,"Bacterial meningitis, not elsewhere classified",691.0,496.0,2020-2021,G00-G09,Inflammatory diseases of the central nervous system
+G01,Meningitis in bacterial diseases classified elsewhere,8.0,7.0,2020-2021,G00-G09,Inflammatory diseases of the central nervous system
+G02,Meningitis in other infectious and parasitic diseases classified elsewhere,20.0,19.0,2020-2021,G00-G09,Inflammatory diseases of the central nervous system
+G03,Meningitis due to other and unspecified causes,654.0,541.0,2020-2021,G00-G09,Inflammatory diseases of the central nervous system
+G04,"Encephalitis, myelitis and encephalomyelitis",2147.0,1437.0,2020-2021,G00-G09,Inflammatory diseases of the central nervous system
+G05,"Encephalitis, myelitis and encephalomyelitis in diseases classified elsewhere",47.0,32.0,2020-2021,G00-G09,Inflammatory diseases of the central nervous system
+G06,Intracranial and intraspinal abscess and granuloma,1124.0,677.0,2020-2021,G00-G09,Inflammatory diseases of the central nervous system
+G07,Intracranial and intraspinal abscess and granuloma in diseases classified elsewhere,3.0,3.0,2020-2021,G00-G09,Inflammatory diseases of the central nervous system
+G08,Intracranial and intraspinal phlebitis and thrombophlebitis,719.0,609.0,2020-2021,G00-G09,Inflammatory diseases of the central nervous system
+G10,Huntington disease,186.0,127.0,2020-2021,G10-G14,Systemic atrophies primarily affecting the central nervous system
+G11,Hereditary ataxia,507.0,159.0,2020-2021,G10-G14,Systemic atrophies primarily affecting the central nervous system
+G12,Spinal muscular atrophy and related syndromes,3261.0,712.0,2020-2021,G10-G14,Systemic atrophies primarily affecting the central nervous system
+G13,Systemic atrophies primarily affecting central nervous system in diseases classified elsewhere,80.0,22.0,2020-2021,G10-G14,Systemic atrophies primarily affecting the central nervous system
+G14,Postpolio syndrome,16.0,5.0,2020-2021,G10-G14,Systemic atrophies primarily affecting the central nervous system
+G20,Parkinson disease,5224.0,3654.0,2020-2021,G20-G26,Extrapyramidal & movement disorders (incl. Parkinsonism).
+G21,Secondary parkinsonism,329.0,304.0,2020-2021,G20-G26,Extrapyramidal & movement disorders (incl. Parkinsonism).
+G23,Other degenerative diseases of basal ganglia,450.0,324.0,2020-2021,G20-G26,Extrapyramidal & movement disorders (incl. Parkinsonism).
+G24,Dystonia,2519.0,559.0,2020-2021,G20-G26,Extrapyramidal & movement disorders (incl. Parkinsonism).
+G25,Other extrapyramidal and movement disorders,2575.0,1106.0,2020-2021,G20-G26,Extrapyramidal & movement disorders (incl. Parkinsonism).
+G30,Alzheimer disease,4317.0,3830.0,2020-2021,G30-G32,Other degenerative diseases (incl. Alzheimer).
+G31,"Other degenerative diseases of nervous system, not elsewhere classified",1429.0,1113.0,2020-2021,G30-G32,Other degenerative diseases (incl. Alzheimer).
+G32,Other degenerative disorders of nervous system in diseases classified elsewhere,32.0,23.0,2020-2021,G30-G32,Other degenerative diseases (incl. Alzheimer).
+G35,Multiple sclerosis,46012.0,2012.0,2020-2021,G35-G37,Demyelinating diseases (incl Multiple Sclerosis) of the CNS.
+G36,Other acute disseminated demyelination,581.0,134.0,2020-2021,G35-G37,Demyelinating diseases (incl Multiple Sclerosis) of the CNS.
+G37,Other demyelinating diseases of central nervous system,1277.0,469.0,2020-2021,G35-G37,Demyelinating diseases (incl Multiple Sclerosis) of the CNS.
+G40,Epilepsy,34324.0,28739.0,2020-2021,G40-G47,Episodic and paroxysmal disorders
+G41,Status epilepticus,3614.0,3445.0,2020-2021,G40-G47,Episodic and paroxysmal disorders
+G43,Migraine,27728.0,22099.0,2020-2021,G40-G47,Episodic and paroxysmal disorders
+G44,Other headache syndromes,7313.0,6190.0,2020-2021,G40-G47,Episodic and paroxysmal disorders
+G45,Transient cerebral ischaemic attacks and related syndromes,19221.0,18673.0,2020-2021,G40-G47,Episodic and paroxysmal disorders
+G46,Vascular syndromes of brain in cerebrovascular diseases,81.0,64.0,2020-2021,G40-G47,Episodic and paroxysmal disorders
+G47,Sleep disorders,13804.0,934.0,2020-2021,G40-G47,Episodic and paroxysmal disorders
+G50,Disorders of trigeminal nerve,1991.0,955.0,2020-2021,G50-G59,"Nerve, nerve root and plexus disorders"
+G51,Facial nerve disorders,4723.0,3745.0,2020-2021,G50-G59,"Nerve, nerve root and plexus disorders"
+G52,Disorders of other cranial nerves,186.0,109.0,2020-2021,G50-G59,"Nerve, nerve root and plexus disorders"
+G53,Cranial nerve disorders in diseases classified elsewhere,131.0,53.0,2020-2021,G50-G59,"Nerve, nerve root and plexus disorders"
+G54,Nerve root and plexus disorders,967.0,289.0,2020-2021,G50-G59,"Nerve, nerve root and plexus disorders"
+G55,Nerve root and plexus compressions in diseases classified elsewhere,4671.0,1255.0,2020-2021,G50-G59,"Nerve, nerve root and plexus disorders"
+G56,Mononeuropathies of upper limb,25155.0,547.0,2020-2021,G50-G59,"Nerve, nerve root and plexus disorders"
+G57,Mononeuropathies of lower limb,2258.0,197.0,2020-2021,G50-G59,"Nerve, nerve root and plexus disorders"
+G58,Other mononeuropathies,1196.0,414.0,2020-2021,G50-G59,"Nerve, nerve root and plexus disorders"
+G59,Mononeuropathy in diseases classified elsewhere,14.0,11.0,2020-2021,G50-G59,"Nerve, nerve root and plexus disorders"
+G60,Hereditary and idiopathic neuropathy,366.0,89.0,2020-2021,G60-G64,Polyneuropathies and other disorders of the peripheral nervous system
+G61,Inflammatory polyneuropathy,18061.0,774.0,2020-2021,G60-G64,Polyneuropathies and other disorders of the peripheral nervous system
+G62,Other polyneuropathies,8868.0,1449.0,2020-2021,G60-G64,Polyneuropathies and other disorders of the peripheral nervous system
+G63,Polyneuropathy in diseases classified elsewhere,339.0,123.0,2020-2021,G60-G64,Polyneuropathies and other disorders of the peripheral nervous system
+G64,Other disorders of peripheral nervous system,11.0,2.0,2020-2021,G60-G64,Polyneuropathies and other disorders of the peripheral nervous system
+G70,Myasthenia gravis and other myoneural disorders,3646.0,787.0,2020-2021,G70-G73,Diseases of myoneural junction and muscle
+G71,Primary disorders of muscles,2017.0,158.0,2020-2021,G70-G73,Diseases of myoneural junction and muscle
+G72,Other myopathies,957.0,307.0,2020-2021,G70-G73,Diseases of myoneural junction and muscle
+G73,Disorders of myoneural junction and muscle in diseases classified elsewhere,76.0,14.0,2020-2021,G70-G73,Diseases of myoneural junction and muscle
+G80,Cerebral palsy,4099.0,208.0,2020-2021,G80-G83,Cerebral palsy & other paralytic syndromes
+G81,Hemiplegia,3073.0,1871.0,2020-2021,G80-G83,Cerebral palsy & other paralytic syndromes
+G82,Paraplegia and tetraplegia,1251.0,193.0,2020-2021,G80-G83,Cerebral palsy & other paralytic syndromes
+G83,Other paralytic syndromes,1933.0,1641.0,2020-2021,G80-G83,Cerebral palsy & other paralytic syndromes
+G90,Disorders of autonomic nervous system,647.0,298.0,2020-2021,G90-G99,Other diseases & disorders of the nervous syst.
+G91,Hydrocephalus,2656.0,1250.0,2020-2021,G90-G99,Other diseases & disorders of the nervous syst.
+G92,Toxic encephalopathy,46.0,34.0,2020-2021,G90-G99,Other diseases & disorders of the nervous syst.
+G93,Other disorders of brain,10544.0,6794.0,2020-2021,G90-G99,Other diseases & disorders of the nervous syst.
+G94,Other disorders of brain in diseases classified elsewhere,207.0,133.0,2020-2021,G90-G99,Other diseases & disorders of the nervous syst.
+G95,Other diseases of spinal cord,2372.0,1044.0,2020-2021,G90-G99,Other diseases & disorders of the nervous syst.
+G96,Other disorders of central nervous system,769.0,342.0,2020-2021,G90-G99,Other diseases & disorders of the nervous syst.
+G97,"Postprocedural disorders of nervous system, not elsewhere classified",967.0,797.0,2020-2021,G90-G99,Other diseases & disorders of the nervous syst.
+G98,"Other disorders of nervous system, not elsewhere classified",269.0,219.0,2020-2021,G90-G99,Other diseases & disorders of the nervous syst.
+G99,Other disorders of nervous system in diseases classified elsewhere,1827.0,1141.0,2020-2021,G90-G99,Other diseases & disorders of the nervous syst.
+H00,Hordeolum and chalazion,2659.0,703.0,2020-2021,H00-H06,"Disorders of eyelid, lacrimal system and orbit"
+H01,Other inflammation of eyelid,461.0,175.0,2020-2021,H00-H06,"Disorders of eyelid, lacrimal system and orbit"
+H02,Other disorders of eyelid,15760.0,505.0,2020-2021,H00-H06,"Disorders of eyelid, lacrimal system and orbit"
+H03,Disorders of eyelid in diseases classified elsewhere,25.0,9.0,2020-2021,H00-H06,"Disorders of eyelid, lacrimal system and orbit"
+H04,Disorders of lacrimal system,3418.0,216.0,2020-2021,H00-H06,"Disorders of eyelid, lacrimal system and orbit"
+H05,Disorders of orbit,2619.0,2026.0,2020-2021,H00-H06,"Disorders of eyelid, lacrimal system and orbit"
+H06,Disorders of lacrimal system and orbit in diseases classified elsewhere,882.0,68.0,2020-2021,H00-H06,"Disorders of eyelid, lacrimal system and orbit"
+H10,Conjunctivitis,792.0,597.0,2020-2021,H10-H13,Disorders of conjunctiva (including conjunctivitis)
+H11,Other disorders of conjunctiva,2027.0,384.0,2020-2021,H10-H13,Disorders of conjunctiva (including conjunctivitis)
+H13,Disorders of conjunctiva in diseases classified elsewhere,51.0,6.0,2020-2021,H10-H13,Disorders of conjunctiva (including conjunctivitis)
+H15,Disorders of sclera,143.0,68.0,2020-2021,H15-H22,"Disorders of sclera, cornea, iris and ciliary body"
+H16,Keratitis,1516.0,717.0,2020-2021,H15-H22,"Disorders of sclera, cornea, iris and ciliary body"
+H17,Corneal scars and opacities,217.0,5.0,2020-2021,H15-H22,"Disorders of sclera, cornea, iris and ciliary body"
+H18,Other disorders of cornea,5500.0,133.0,2020-2021,H15-H22,"Disorders of sclera, cornea, iris and ciliary body"
+H19,Disorders of sclera and cornea in diseases classified elsewhere,138.0,38.0,2020-2021,H15-H22,"Disorders of sclera, cornea, iris and ciliary body"
+H20,Iridocyclitis,1161.0,239.0,2020-2021,H15-H22,"Disorders of sclera, cornea, iris and ciliary body"
+H21,Other disorders of iris and ciliary body,562.0,68.0,2020-2021,H15-H22,"Disorders of sclera, cornea, iris and ciliary body"
+H22,Disorders of iris and ciliary body in diseases classified elsewhere,46.0,9.0,2020-2021,H15-H22,"Disorders of sclera, cornea, iris and ciliary body"
+H25,Senile cataract,132714.0,86.0,2020-2021,H25-H28,Disorders of lens (including cataracts)
+H26,Other cataract,125402.0,293.0,2020-2021,H25-H28,Disorders of lens (including cataracts)
+H27,Other disorders of lens,837.0,33.0,2020-2021,H25-H28,Disorders of lens (including cataracts)
+H28,Cataract and other disorders of lens in diseases classified elsewhere,475.0,2.0,2020-2021,H25-H28,Disorders of lens (including cataracts)
+H30,Chorioretinal inflammation,171.0,55.0,2020-2021,H30-H36,Disorders of choroid and retina
+H31,Other disorders of choroid,1698.0,55.0,2020-2021,H30-H36,Disorders of choroid and retina
+H32,Chorioretinal disorders in diseases classified elsewhere,16.0,4.0,2020-2021,H30-H36,Disorders of choroid and retina
+H33,Retinal detachments and breaks,15895.0,4509.0,2020-2021,H30-H36,Disorders of choroid and retina
+H34,Retinal vascular occlusions,9131.0,450.0,2020-2021,H30-H36,Disorders of choroid and retina
+H35,Other retinal disorders,70201.0,604.0,2020-2021,H30-H36,Disorders of choroid and retina
+H36,Retinal disorders in diseases classified elsewhere,13962.0,125.0,2020-2021,H30-H36,Disorders of choroid and retina
+H40,Glaucoma,17072.0,797.0,2020-2021,H40-H42,Glaucoma
+H42,Glaucoma in diseases classified elsewhere,15.0,0.0,2020-2021,H40-H42,Glaucoma
+H43,Disorders of vitreous body,3769.0,537.0,2020-2021,H43-H45,Disorders of vitreous body and globe
+H44,Disorders of globe,1048.0,390.0,2020-2021,H43-H45,Disorders of vitreous body and globe
+H45,Disorders of vitreous body and globe in diseases classified elsewhere,224.0,12.0,2020-2021,H43-H45,Disorders of vitreous body and globe
+H46,Optic neuritis,880.0,491.0,2020-2021,H46-H48,Disorders of optic nerve and visual pathways
+H47,Other disorders of optic [2nd] nerve and visual pathways,2369.0,1653.0,2020-2021,H46-H48,Disorders of optic nerve and visual pathways
+H48,Disorders of optic [2nd] nerve and visual pathways in diseases classified elsewhere,11.0,5.0,2020-2021,H46-H48,Disorders of optic nerve and visual pathways
+H49,Paralytic strabismus,1481.0,1082.0,2020-2021,H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction"
+H50,Other strabismus,4686.0,233.0,2020-2021,H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction"
+H51,Other disorders of binocular movement,188.0,120.0,2020-2021,H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction"
+H52,Disorders of refraction and accommodation,443.0,38.0,2020-2021,H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction"
+H53,Visual disturbances,6405.0,5553.0,2020-2021,H53-H54,Visual disturbances and blindness
+H54,Visual impairment including blindness (binocular or monocular),386.0,248.0,2020-2021,H53-H54,Visual disturbances and blindness
+H55,Nystagmus and other irregular eye movements,407.0,245.0,2020-2021,H55-H59,Other disorders of eye and adnexa
+H57,Other disorders of eye and adnexa,2922.0,1299.0,2020-2021,H55-H59,Other disorders of eye and adnexa
+H58,Other disorders of eye and adnexa in diseases classified elsewhere,127.0,15.0,2020-2021,H55-H59,Other disorders of eye and adnexa
+H59,"Postprocedural disorders of eye and adnexa, not elsewhere classified",1431.0,101.0,2020-2021,H55-H59,Other disorders of eye and adnexa
+H60,Otitis externa,5726.0,4980.0,2020-2021,H60-H62,Diseases of external ear
+H61,Other disorders of external ear,2729.0,1277.0,2020-2021,H60-H62,Diseases of external ear
+H62,Disorders of external ear in diseases classified elsewhere,26.0,21.0,2020-2021,H60-H62,Diseases of external ear
+H65,Nonsuppurative otitis media,3264.0,265.0,2020-2021,H65-H75,Diseases of middle ear and mastoid
+H66,Suppurative and unspecified otitis media,4168.0,2933.0,2020-2021,H65-H75,Diseases of middle ear and mastoid
+H67,Otitis media in diseases classified elsewhere,3.0,3.0,2020-2021,H65-H75,Diseases of middle ear and mastoid
+H68,Eustachian salpingitis and obstruction,30.0,7.0,2020-2021,H65-H75,Diseases of middle ear and mastoid
+H69,Other disorders of Eustachian tube,356.0,36.0,2020-2021,H65-H75,Diseases of middle ear and mastoid
+H70,Mastoiditis and related conditions,606.0,482.0,2020-2021,H65-H75,Diseases of middle ear and mastoid
+H71,Cholesteatoma of middle ear,2627.0,100.0,2020-2021,H65-H75,Diseases of middle ear and mastoid
+H72,Perforation of tympanic membrane,2000.0,118.0,2020-2021,H65-H75,Diseases of middle ear and mastoid
+H73,Other disorders of tympanic membrane,575.0,50.0,2020-2021,H65-H75,Diseases of middle ear and mastoid
+H74,Other disorders of middle ear and mastoid,630.0,86.0,2020-2021,H65-H75,Diseases of middle ear and mastoid
+H75,Other disorders of middle ear and mastoid in diseases classified elsewhere,1.0,1.0,2020-2021,H65-H75,Diseases of middle ear and mastoid
+H80,Otosclerosis,251.0,1.0,2020-2021,H80-H83,Diseases of inner ear
+H81,Disorders of vestibular function,7950.0,7542.0,2020-2021,H80-H83,Diseases of inner ear
+H82,Vertiginous syndromes in diseases classified elsewhere,3.0,3.0,2020-2021,H80-H83,Diseases of inner ear
+H83,Other diseases of inner ear,2755.0,2655.0,2020-2021,H80-H83,Diseases of inner ear
+H90,Conductive and sensorineural hearing loss,1881.0,183.0,2020-2021,H90-H95,Other disorders of ear
+H91,Other hearing loss,996.0,253.0,2020-2021,H90-H95,Other disorders of ear
+H92,Otalgia and effusion of ear,1585.0,1293.0,2020-2021,H90-H95,Other disorders of ear
+H93,"Other disorders of ear, not elsewhere classified",637.0,447.0,2020-2021,H90-H95,Other disorders of ear
+H95,"Postprocedural disorders of ear and mastoid process, not elsewhere classified",349.0,24.0,2020-2021,H90-H95,Other disorders of ear
+I00,Rheumatic fever without mention of heart involvement,11.0,9.0,2020-2021,I00-I02,Acute rheumatic fever
+I01,Rheumatic fever with heart involvement,10.0,9.0,2020-2021,I00-I02,Acute rheumatic fever
+I02,Rheumatic chorea,33.0,15.0,2020-2021,I00-I02,Acute rheumatic fever
+I05,Rheumatic mitral valve diseases,407.0,111.0,2020-2021,I05-I09,Chronic rheumatic heart diseases
+I06,Rheumatic aortic valve diseases,25.0,7.0,2020-2021,I05-I09,Chronic rheumatic heart diseases
+I07,Rheumatic tricuspid valve diseases,194.0,57.0,2020-2021,I05-I09,Chronic rheumatic heart diseases
+I08,Multiple valve diseases,7446.0,1633.0,2020-2021,I05-I09,Chronic rheumatic heart diseases
+I09,Other rheumatic heart diseases,13.0,5.0,2020-2021,I05-I09,Chronic rheumatic heart diseases
+I10,Essential (primary) hypertension,24658.0,22593.0,2020-2021,I10-I15,Hypertensive diseases
+I11,Hypertensive heart disease,506.0,426.0,2020-2021,I10-I15,Hypertensive diseases
+I12,Hypertensive renal disease,339.0,176.0,2020-2021,I10-I15,Hypertensive diseases
+I13,Hypertensive heart and renal disease,772.0,686.0,2020-2021,I10-I15,Hypertensive diseases
+I15,Secondary hypertension,170.0,109.0,2020-2021,I10-I15,Hypertensive diseases
+I20,Angina pectoris,41090.0,35809.0,2020-2021,I20-I25,Ischaemic heart diseases
+I21,Acute myocardial infarction,76914.0,71499.0,2020-2021,I20-I25,Ischaemic heart diseases
+I22,Subsequent myocardial infarction,642.0,604.0,2020-2021,I20-I25,Ischaemic heart diseases
+I23,Certain current complications following acute myocardial infarction,121.0,95.0,2020-2021,I20-I25,Ischaemic heart diseases
+I24,Other acute ischaemic heart diseases,12564.0,11892.0,2020-2021,I20-I25,Ischaemic heart diseases
+I25,Chronic ischaemic heart disease,73698.0,9186.0,2020-2021,I20-I25,Ischaemic heart diseases
+I26,Pulmonary embolism,35057.0,33106.0,2020-2021,I26-I28,Pulmonary heart disease & diseases of pulmonary circulation
+I27,Other pulmonary heart diseases,4302.0,1472.0,2020-2021,I26-I28,Pulmonary heart disease & diseases of pulmonary circulation
+I28,Other diseases of pulmonary vessels,103.0,29.0,2020-2021,I26-I28,Pulmonary heart disease & diseases of pulmonary circulation
+I30,Acute pericarditis,1201.0,1142.0,2020-2021,I30-I52,Other forms of heart disease
+I31,Other diseases of pericardium,6203.0,5566.0,2020-2021,I30-I52,Other forms of heart disease
+I32,Pericarditis in diseases classified elsewhere,9.0,8.0,2020-2021,I30-I52,Other forms of heart disease
+I33,Acute and subacute endocarditis,2456.0,1599.0,2020-2021,I30-I52,Other forms of heart disease
+I34,Nonrheumatic mitral valve disorders,3552.0,578.0,2020-2021,I30-I52,Other forms of heart disease
+I35,Nonrheumatic aortic valve disorders,14059.0,3953.0,2020-2021,I30-I52,Other forms of heart disease
+I36,Nonrheumatic tricuspid valve disorders,66.0,20.0,2020-2021,I30-I52,Other forms of heart disease
+I37,Pulmonary valve disorders,222.0,21.0,2020-2021,I30-I52,Other forms of heart disease
+I38,"Endocarditis, valve unspecified",212.0,135.0,2020-2021,I30-I52,Other forms of heart disease
+I39,Endocarditis and heart valve disorders in diseases classified elsewhere,3.0,1.0,2020-2021,I30-I52,Other forms of heart disease
+I40,Acute myocarditis,327.0,295.0,2020-2021,I30-I52,Other forms of heart disease
+I41,Myocarditis in diseases classified elsewhere,6.0,4.0,2020-2021,I30-I52,Other forms of heart disease
+I42,Cardiomyopathy,5987.0,2272.0,2020-2021,I30-I52,Other forms of heart disease
+I43,Cardiomyopathy in diseases classified elsewhere,64.0,14.0,2020-2021,I30-I52,Other forms of heart disease
+I44,Atrioventricular and left bundle-branch block,17189.0,9535.0,2020-2021,I30-I52,Other forms of heart disease
+I45,Other conduction disorders,4168.0,2061.0,2020-2021,I30-I52,Other forms of heart disease
+I46,Cardiac arrest,2881.0,2749.0,2020-2021,I30-I52,Other forms of heart disease
+I47,Paroxysmal tachycardia,18076.0,11616.0,2020-2021,I30-I52,Other forms of heart disease
+I48,Atrial fibrillation and flutter,95245.0,61808.0,2020-2021,I30-I52,Other forms of heart disease
+I49,Other cardiac arrhythmias,12446.0,7183.0,2020-2021,I30-I52,Other forms of heart disease
+I50,Heart failure,82000.0,73202.0,2020-2021,I30-I52,Other forms of heart disease
+I51,Complications and ill-defined descriptions of heart disease,4052.0,1952.0,2020-2021,I30-I52,Other forms of heart disease
+I52,Other heart disorders in diseases classified elsewhere,6.0,2.0,2020-2021,I30-I52,Other forms of heart disease
+I60,Subarachnoid haemorrhage,5920.0,4759.0,2020-2021,I60-I69,Cerebrovascular diseases
+I61,Intracerebral haemorrhage,13694.0,12164.0,2020-2021,I60-I69,Cerebrovascular diseases
+I62,Other nontraumatic intracranial haemorrhage,4977.0,4299.0,2020-2021,I60-I69,Cerebrovascular diseases
+I63,Cerebral infarction,74170.0,67122.0,2020-2021,I60-I69,Cerebrovascular diseases
+I64,"Stroke, not specified as haemorrhage or infarction",3048.0,2635.0,2020-2021,I60-I69,Cerebrovascular diseases
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",3259.0,1203.0,2020-2021,I60-I69,Cerebrovascular diseases
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",314.0,264.0,2020-2021,I60-I69,Cerebrovascular diseases
+I67,Other cerebrovascular diseases,4617.0,2160.0,2020-2021,I60-I69,Cerebrovascular diseases
+I68,Cerebrovascular disorders in diseases classified elsewhere,114.0,99.0,2020-2021,I60-I69,Cerebrovascular diseases
+I69,Sequelae of cerebrovascular disease,10.0,5.0,2020-2021,I60-I69,Cerebrovascular diseases
+I70,Atherosclerosis,13883.0,5999.0,2020-2021,I70-I79,"Diseases of arteries, arterioles & capillaries"
+I71,Aortic aneurysm and dissection,8724.0,4290.0,2020-2021,I70-I79,"Diseases of arteries, arterioles & capillaries"
+I72,Other aneurysm and dissection,3264.0,1801.0,2020-2021,I70-I79,"Diseases of arteries, arterioles & capillaries"
+I73,Other peripheral vascular diseases,5847.0,2357.0,2020-2021,I70-I79,"Diseases of arteries, arterioles & capillaries"
+I74,Arterial embolism and thrombosis,6736.0,4347.0,2020-2021,I70-I79,"Diseases of arteries, arterioles & capillaries"
+I77,Other disorders of arteries and arterioles,8256.0,2216.0,2020-2021,I70-I79,"Diseases of arteries, arterioles & capillaries"
+I78,Diseases of capillaries,1809.0,189.0,2020-2021,I70-I79,"Diseases of arteries, arterioles & capillaries"
+I79,"Disorders of arteries, arterioles and capillaries in diseases classified elsewhere",76.0,44.0,2020-2021,I70-I79,"Diseases of arteries, arterioles & capillaries"
+I80,Phlebitis and thrombophlebitis,28091.0,25038.0,2020-2021,I80-I89,Diseases of veins & lymphatic system nec.
+I81,Portal vein thrombosis,587.0,469.0,2020-2021,I80-I89,Diseases of veins & lymphatic system nec.
+I82,Other venous embolism and thrombosis,2346.0,1863.0,2020-2021,I80-I89,Diseases of veins & lymphatic system nec.
+I83,Varicose veins of lower extremities,12881.0,3549.0,2020-2021,I80-I89,Diseases of veins & lymphatic system nec.
+I85,Oesophageal varices,6807.0,1047.0,2020-2021,I80-I89,Diseases of veins & lymphatic system nec.
+I86,Varicose veins of other sites,2476.0,711.0,2020-2021,I80-I89,Diseases of veins & lymphatic system nec.
+I87,Other disorders of veins,2743.0,1780.0,2020-2021,I80-I89,Diseases of veins & lymphatic system nec.
+I88,Nonspecific lymphadenitis,3270.0,2469.0,2020-2021,I80-I89,Diseases of veins & lymphatic system nec.
+I89,Other noninfective disorders of lymphatic vessels and lymph nodes,2126.0,1509.0,2020-2021,I80-I89,Diseases of veins & lymphatic system nec.
+I95,Hypotension,26994.0,25986.0,2020-2021,I95-I99,Other & unspecified disorders of the circulatory system
+I97,"Postprocedural disorders of circulatory system, not elsewhere classified",73.0,61.0,2020-2021,I95-I99,Other & unspecified disorders of the circulatory system
+I98,Other disorders of circulatory system in diseases classified elsewhere,2988.0,894.0,2020-2021,I95-I99,Other & unspecified disorders of the circulatory system
+I99,Other and unspecified disorders of circulatory system,366.0,237.0,2020-2021,I95-I99,Other & unspecified disorders of the circulatory system
+J00,Acute nasopharyngitis [common cold],567.0,541.0,2020-2021,J00-J06,Acute upper respiratory infections
+J01,Acute sinusitis,745.0,624.0,2020-2021,J00-J06,Acute upper respiratory infections
+J02,Acute pharyngitis,3054.0,2608.0,2020-2021,J00-J06,Acute upper respiratory infections
+J03,Acute tonsillitis,25242.0,18018.0,2020-2021,J00-J06,Acute upper respiratory infections
+J04,Acute laryngitis and tracheitis,542.0,452.0,2020-2021,J00-J06,Acute upper respiratory infections
+J05,Acute obstructive laryngitis [croup] and epiglottitis,3489.0,3369.0,2020-2021,J00-J06,Acute upper respiratory infections
+J06,Acute upper respiratory infections of multiple and unspecified sites,17096.0,16807.0,2020-2021,J00-J06,Acute upper respiratory infections
+J09,Influenza due to identified zoonotic or pandemic influenza virus,2.0,0.0,2020-2021,J09-J18,Influenza & pneumonia
+J10,Influenza due to identified seasonal influenza virus,87.0,71.0,2020-2021,J09-J18,Influenza & pneumonia
+J11,"Influenza, virus not identified",62.0,56.0,2020-2021,J09-J18,Influenza & pneumonia
+J12,"Viral pneumonia, not elsewhere classified",1716.0,1638.0,2020-2021,J09-J18,Influenza & pneumonia
+J13,Pneumonia due to Streptococcus pneumoniae,733.0,681.0,2020-2021,J09-J18,Influenza & pneumonia
+J14,Pneumonia due to Haemophilus influenzae,178.0,128.0,2020-2021,J09-J18,Influenza & pneumonia
+J15,"Bacterial pneumonia, not elsewhere classified",2833.0,2579.0,2020-2021,J09-J18,Influenza & pneumonia
+J16,"Pneumonia due to other infectious organisms, not elsewhere classified",74.0,38.0,2020-2021,J09-J18,Influenza & pneumonia
+J17,Pneumonia in diseases classified elsewhere,93.0,71.0,2020-2021,J09-J18,Influenza & pneumonia
+J18,"Pneumonia, organism unspecified",135024.0,131821.0,2020-2021,J09-J18,Influenza & pneumonia
+J20,Acute bronchitis,922.0,803.0,2020-2021,J20-J22,Other acute lower respiratory infections
+J21,Acute bronchiolitis,6993.0,6826.0,2020-2021,J20-J22,Other acute lower respiratory infections
+J22,Unspecified acute lower respiratory infection,47681.0,46190.0,2020-2021,J20-J22,Other acute lower respiratory infections
+J30,Vasomotor and allergic rhinitis,3009.0,226.0,2020-2021,J30-J39,Other diseases of upper respiratory tract
+J31,"Chronic rhinitis, nasopharyngitis and pharyngitis",630.0,74.0,2020-2021,J30-J39,Other diseases of upper respiratory tract
+J32,Chronic sinusitis,3830.0,1737.0,2020-2021,J30-J39,Other diseases of upper respiratory tract
+J33,Nasal polyp,3671.0,77.0,2020-2021,J30-J39,Other diseases of upper respiratory tract
+J34,Other disorders of nose and nasal sinuses,10112.0,848.0,2020-2021,J30-J39,Other diseases of upper respiratory tract
+J35,Chronic diseases of tonsils and adenoids,7594.0,427.0,2020-2021,J30-J39,Other diseases of upper respiratory tract
+J36,Peritonsillar abscess,4093.0,3933.0,2020-2021,J30-J39,Other diseases of upper respiratory tract
+J37,Chronic laryngitis and laryngotracheitis,67.0,10.0,2020-2021,J30-J39,Other diseases of upper respiratory tract
+J38,"Diseases of vocal cords and larynx, not elsewhere classified",7378.0,843.0,2020-2021,J30-J39,Other diseases of upper respiratory tract
+J39,Other diseases of upper respiratory tract,2835.0,933.0,2020-2021,J30-J39,Other diseases of upper respiratory tract
+J40,"Bronchitis, not specified as acute or chronic",836.0,590.0,2020-2021,J40-J47,Chronic lower respiratory diseases
+J41,Simple and mucopurulent chronic bronchitis,17.0,14.0,2020-2021,J40-J47,Chronic lower respiratory diseases
+J42,Unspecified chronic bronchitis,133.0,45.0,2020-2021,J40-J47,Chronic lower respiratory diseases
+J43,Emphysema,2727.0,2112.0,2020-2021,J40-J47,Chronic lower respiratory diseases
+J44,Other chronic obstructive pulmonary disease,73702.0,72033.0,2020-2021,J40-J47,Chronic lower respiratory diseases
+J45,Asthma,37079.0,28863.0,2020-2021,J40-J47,Chronic lower respiratory diseases
+J46,Status asthmaticus,2137.0,2081.0,2020-2021,J40-J47,Chronic lower respiratory diseases
+J47,Bronchiectasis,7632.0,5158.0,2020-2021,J40-J47,Chronic lower respiratory diseases
+J60,Coalworker pneumoconiosis,47.0,4.0,2020-2021,J60-J70,Lung diseases due to external agents
+J61,Pneumoconiosis due to asbestos and other mineral fibres,103.0,95.0,2020-2021,J60-J70,Lung diseases due to external agents
+J62,Pneumoconiosis due to dust containing silica,6.0,3.0,2020-2021,J60-J70,Lung diseases due to external agents
+J63,Pneumoconiosis due to other inorganic dusts,2.0,1.0,2020-2021,J60-J70,Lung diseases due to external agents
+J64,Unspecified pneumoconiosis,10.0,8.0,2020-2021,J60-J70,Lung diseases due to external agents
+J66,Airway disease due to specific organic dust,3.0,3.0,2020-2021,J60-J70,Lung diseases due to external agents
+J67,Hypersensitivity pneumonitis due to organic dust,760.0,420.0,2020-2021,J60-J70,Lung diseases due to external agents
+J68,"Respiratory conditions due to inhalation of chemicals, gases, fumes and vapours",69.0,59.0,2020-2021,J60-J70,Lung diseases due to external agents
+J69,Pneumonitis due to solids and liquids,19478.0,19121.0,2020-2021,J60-J70,Lung diseases due to external agents
+J70,Respiratory conditions due to other external agents,234.0,198.0,2020-2021,J60-J70,Lung diseases due to external agents
+J80,Adult respiratory distress syndrome,115.0,97.0,2020-2021,J80-J84,Other respiratory diseases principally affecting the interstitium
+J81,Pulmonary oedema,761.0,713.0,2020-2021,J80-J84,Other respiratory diseases principally affecting the interstitium
+J82,"Pulmonary eosinophilia, not elsewhere classified",4228.0,889.0,2020-2021,J80-J84,Other respiratory diseases principally affecting the interstitium
+J84,Other interstitial pulmonary diseases,7651.0,4998.0,2020-2021,J80-J84,Other respiratory diseases principally affecting the interstitium
+J85,Abscess of lung and mediastinum,829.0,530.0,2020-2021,J85-J86,Suppurative and necrotic conditions of lower respiratory tract
+J86,Pyothorax,2599.0,1650.0,2020-2021,J85-J86,Suppurative and necrotic conditions of lower respiratory tract
+J90,"Pleural effusion, not elsewhere classified",20539.0,12822.0,2020-2021,J90-J94,Other diseases of pleura
+J91,Pleural effusion in conditions classified elsewhere,456.0,365.0,2020-2021,J90-J94,Other diseases of pleura
+J92,Pleural plaque,388.0,134.0,2020-2021,J90-J94,Other diseases of pleura
+J93,Pneumothorax,7328.0,5820.0,2020-2021,J90-J94,Other diseases of pleura
+J94,Other pleural conditions,1086.0,691.0,2020-2021,J90-J94,Other diseases of pleura
+J95,"Postprocedural respiratory disorders, not elsewhere classified",927.0,550.0,2020-2021,J95-J99,Other diseases of the respiratory system
+J96,"Respiratory failure, not elsewhere classified",10020.0,8203.0,2020-2021,J95-J99,Other diseases of the respiratory system
+J98,Other respiratory disorders,7717.0,2738.0,2020-2021,J95-J99,Other diseases of the respiratory system
+J99,Respiratory disorders in diseases classified elsewhere,137.0,36.0,2020-2021,J95-J99,Other diseases of the respiratory system
+K00,Disorders of tooth development and eruption,3292.0,122.0,2020-2021,K00-K14,"Diseases of oral cavity, salivary glands & jaws"
+K01,Embedded and impacted teeth,10689.0,78.0,2020-2021,K00-K14,"Diseases of oral cavity, salivary glands & jaws"
+K02,Dental caries,35007.0,987.0,2020-2021,K00-K14,"Diseases of oral cavity, salivary glands & jaws"
+K03,Other diseases of hard tissues of teeth,495.0,13.0,2020-2021,K00-K14,"Diseases of oral cavity, salivary glands & jaws"
+K04,Diseases of pulp and periapical tissues,11020.0,6449.0,2020-2021,K00-K14,"Diseases of oral cavity, salivary glands & jaws"
+K05,Gingivitis and periodontal diseases,5736.0,647.0,2020-2021,K00-K14,"Diseases of oral cavity, salivary glands & jaws"
+K06,Other disorders of gingiva and edentulous alveolar ridge,1436.0,292.0,2020-2021,K00-K14,"Diseases of oral cavity, salivary glands & jaws"
+K07,Dentofacial anomalies [including malocclusion],6162.0,375.0,2020-2021,K00-K14,"Diseases of oral cavity, salivary glands & jaws"
+K08,Other disorders of teeth and supporting structures,8737.0,836.0,2020-2021,K00-K14,"Diseases of oral cavity, salivary glands & jaws"
+K09,"Cysts of oral region, not elsewhere classified",1393.0,71.0,2020-2021,K00-K14,"Diseases of oral cavity, salivary glands & jaws"
+K10,Other diseases of jaws,1976.0,952.0,2020-2021,K00-K14,"Diseases of oral cavity, salivary glands & jaws"
+K11,Diseases of salivary glands,4380.0,2000.0,2020-2021,K00-K14,"Diseases of oral cavity, salivary glands & jaws"
+K12,Stomatitis and related lesions,4474.0,3357.0,2020-2021,K00-K14,"Diseases of oral cavity, salivary glands & jaws"
+K13,Other diseases of lip and oral mucosa,8247.0,762.0,2020-2021,K00-K14,"Diseases of oral cavity, salivary glands & jaws"
+K14,Diseases of tongue,4262.0,599.0,2020-2021,K00-K14,"Diseases of oral cavity, salivary glands & jaws"
+K20,Oesophagitis,13132.0,1619.0,2020-2021,K20-K31,"Diseases of oesophagus, stomach & duodenum"
+K21,Gastro-oesophageal reflux disease,63615.0,21467.0,2020-2021,K20-K31,"Diseases of oesophagus, stomach & duodenum"
+K22,Other diseases of oesophagus,61791.0,6020.0,2020-2021,K20-K31,"Diseases of oesophagus, stomach & duodenum"
+K23,Disorders of oesophagus in diseases classified elsewhere,57.0,1.0,2020-2021,K20-K31,"Diseases of oesophagus, stomach & duodenum"
+K25,Gastric ulcer,9550.0,2456.0,2020-2021,K20-K31,"Diseases of oesophagus, stomach & duodenum"
+K26,Duodenal ulcer,5184.0,3460.0,2020-2021,K20-K31,"Diseases of oesophagus, stomach & duodenum"
+K27,"Peptic ulcer, site unspecified",573.0,475.0,2020-2021,K20-K31,"Diseases of oesophagus, stomach & duodenum"
+K28,Gastrojejunal ulcer,240.0,102.0,2020-2021,K20-K31,"Diseases of oesophagus, stomach & duodenum"
+K29,Gastritis and duodenitis,102883.0,22840.0,2020-2021,K20-K31,"Diseases of oesophagus, stomach & duodenum"
+K30,Functional dyspepsia,4970.0,1080.0,2020-2021,K20-K31,"Diseases of oesophagus, stomach & duodenum"
+K31,Other diseases of stomach and duodenum,28104.0,3549.0,2020-2021,K20-K31,"Diseases of oesophagus, stomach & duodenum"
+K35,Acute appendicitis,39585.0,38246.0,2020-2021,K35-K38,Diseases of appendix
+K36,Other appendicitis,521.0,371.0,2020-2021,K35-K38,Diseases of appendix
+K37,Unspecified appendicitis,5006.0,4655.0,2020-2021,K35-K38,Diseases of appendix
+K38,Other diseases of appendix,1579.0,1054.0,2020-2021,K35-K38,Diseases of appendix
+K40,Inguinal hernia,42716.0,11176.0,2020-2021,K40-K46,Hernia
+K41,Femoral hernia,2304.0,1527.0,2020-2021,K40-K46,Hernia
+K42,Umbilical hernia,14822.0,6651.0,2020-2021,K40-K46,Hernia
+K43,Ventral hernia,13797.0,7274.0,2020-2021,K40-K46,Hernia
+K44,Diaphragmatic hernia,37735.0,1809.0,2020-2021,K40-K46,Hernia
+K45,Other abdominal hernia,466.0,385.0,2020-2021,K40-K46,Hernia
+K46,Unspecified abdominal hernia,770.0,579.0,2020-2021,K40-K46,Hernia
+K50,Crohn disease [regional enteritis],123138.0,8810.0,2020-2021,K50-K52,Noninfective enteritis & colitis
+K51,Ulcerative colitis,99772.0,8039.0,2020-2021,K50-K52,Noninfective enteritis & colitis
+K52,Other noninfective gastroenteritis and colitis,36148.0,8262.0,2020-2021,K50-K52,Noninfective enteritis & colitis
+K55,Vascular disorders of intestine,7258.0,5094.0,2020-2021,K55-K64,Other diseases of intestines
+K56,Paralytic ileus and intestinal obstruction without hernia,36489.0,32948.0,2020-2021,K55-K64,Other diseases of intestines
+K57,Diverticular disease of intestine,100703.0,28538.0,2020-2021,K55-K64,Other diseases of intestines
+K58,Irritable bowel syndrome,4719.0,2013.0,2020-2021,K55-K64,Other diseases of intestines
+K59,Other functional intestinal disorders,63167.0,47960.0,2020-2021,K55-K64,Other diseases of intestines
+K60,Fissure and fistula of anal and rectal regions,16213.0,3939.0,2020-2021,K55-K64,Other diseases of intestines
+K61,Abscess of anal and rectal regions,19428.0,16668.0,2020-2021,K55-K64,Other diseases of intestines
+K62,Other diseases of anus and rectum,54143.0,6541.0,2020-2021,K55-K64,Other diseases of intestines
+K63,Other diseases of intestine,76682.0,4527.0,2020-2021,K55-K64,Other diseases of intestines
+K64,Haemorrhoids and perianal venous thrombosis,59704.0,5223.0,2020-2021,K55-K64,Other diseases of intestines
+K65,Peritonitis,4124.0,3471.0,2020-2021,K65-K67,Diseases of peritoneum
+K66,Other disorders of peritoneum,2777.0,1343.0,2020-2021,K65-K67,Diseases of peritoneum
+K67,Disorders of peritoneum in infectious diseases classified elsewhere,1.0,0.0,2020-2021,K65-K67,Diseases of peritoneum
+K70,Alcoholic liver disease,25015.0,16522.0,2020-2021,K70-K77,Diseases of liver
+K71,Toxic liver disease,681.0,476.0,2020-2021,K70-K77,Diseases of liver
+K72,"Hepatic failure, not elsewhere classified",3108.0,2650.0,2020-2021,K70-K77,Diseases of liver
+K73,"Chronic hepatitis, not elsewhere classified",172.0,23.0,2020-2021,K70-K77,Diseases of liver
+K74,Fibrosis and cirrhosis of liver,7324.0,2755.0,2020-2021,K70-K77,Diseases of liver
+K75,Other inflammatory liver diseases,4748.0,2517.0,2020-2021,K70-K77,Diseases of liver
+K76,Other diseases of liver,6938.0,2675.0,2020-2021,K70-K77,Diseases of liver
+K77,Liver disorders in diseases classified elsewhere,8.0,5.0,2020-2021,K70-K77,Diseases of liver
+K80,Cholelithiasis,103354.0,58288.0,2020-2021,K80-K87,"Disorders of gall bladder, biliary tract & pancreas"
+K81,Cholecystitis,15578.0,11139.0,2020-2021,K80-K87,"Disorders of gall bladder, biliary tract & pancreas"
+K82,Other diseases of gallbladder,2743.0,1350.0,2020-2021,K80-K87,"Disorders of gall bladder, biliary tract & pancreas"
+K83,Other diseases of biliary tract,16624.0,10350.0,2020-2021,K80-K87,"Disorders of gall bladder, biliary tract & pancreas"
+K85,Acute pancreatitis,31021.0,28718.0,2020-2021,K80-K87,"Disorders of gall bladder, biliary tract & pancreas"
+K86,Other diseases of pancreas,10358.0,5295.0,2020-2021,K80-K87,"Disorders of gall bladder, biliary tract & pancreas"
+K87,"Disorders of gallbladder, biliary tract and pancreas in diseases classified elsewhere",1.0,1.0,2020-2021,K80-K87,"Disorders of gall bladder, biliary tract & pancreas"
+K90,Intestinal malabsorption,5740.0,1851.0,2020-2021,K90-K93,Other diseases of the digestive system
+K91,"Postprocedural disorders of digestive system, not elsewhere classified",11529.0,7389.0,2020-2021,K90-K93,Other diseases of the digestive system
+K92,Other diseases of digestive system,86612.0,48328.0,2020-2021,K90-K93,Other diseases of the digestive system
+K93,Disorders of other digestive organs in diseases classified elsewhere,6.0,4.0,2020-2021,K90-K93,Other diseases of the digestive system
+L00,Staphylococcal scalded skin syndrome,85.0,80.0,2020-2021,L00-L08,Infections of the skin and subcutaneous tissue
+L01,Impetigo,521.0,488.0,2020-2021,L00-L08,Infections of the skin and subcutaneous tissue
+L02,"Cutaneous abscess, furuncle and carbuncle",35642.0,31363.0,2020-2021,L00-L08,Infections of the skin and subcutaneous tissue
+L03,Cellulitis,72249.0,64023.0,2020-2021,L00-L08,Infections of the skin and subcutaneous tissue
+L04,Acute lymphadenitis,1298.0,1011.0,2020-2021,L00-L08,Infections of the skin and subcutaneous tissue
+L05,Pilonidal cyst,17095.0,12255.0,2020-2021,L00-L08,Infections of the skin and subcutaneous tissue
+L08,Other local infections of skin and subcutaneous tissue,4665.0,3367.0,2020-2021,L00-L08,Infections of the skin and subcutaneous tissue
+L10,Pemphigus,347.0,72.0,2020-2021,L10-L14,Bullous disorders
+L11,Other acantholytic disorders,107.0,4.0,2020-2021,L10-L14,Bullous disorders
+L12,Pemphigoid,1005.0,466.0,2020-2021,L10-L14,Bullous disorders
+L13,Other bullous disorders,124.0,60.0,2020-2021,L10-L14,Bullous disorders
+L14,Bullous disorders in diseases classified elsewhere,1.0,1.0,2020-2021,L10-L14,Bullous disorders
+L20,Atopic dermatitis,945.0,320.0,2020-2021,L20-L30,Dermatitis and eczema
+L21,Seborrhoeic dermatitis,158.0,137.0,2020-2021,L20-L30,Dermatitis and eczema
+L22,Diaper [napkin] dermatitis,286.0,275.0,2020-2021,L20-L30,Dermatitis and eczema
+L23,Allergic contact dermatitis,414.0,315.0,2020-2021,L20-L30,Dermatitis and eczema
+L24,Irritant contact dermatitis,143.0,127.0,2020-2021,L20-L30,Dermatitis and eczema
+L25,Unspecified contact dermatitis,287.0,254.0,2020-2021,L20-L30,Dermatitis and eczema
+L26,Exfoliative dermatitis,48.0,43.0,2020-2021,L20-L30,Dermatitis and eczema
+L27,Dermatitis due to substances taken internally,1992.0,1721.0,2020-2021,L20-L30,Dermatitis and eczema
+L28,Lichen simplex chronicus and prurigo,650.0,77.0,2020-2021,L20-L30,Dermatitis and eczema
+L29,Pruritus,841.0,478.0,2020-2021,L20-L30,Dermatitis and eczema
+L30,Other dermatitis,4718.0,3279.0,2020-2021,L20-L30,Dermatitis and eczema
+L40,Psoriasis,5492.0,867.0,2020-2021,L40-L45,Papulosquamous disorders (including Psoriasis)
+L41,Parapsoriasis,27.0,5.0,2020-2021,L40-L45,Papulosquamous disorders (including Psoriasis)
+L42,Pityriasis rosea,31.0,25.0,2020-2021,L40-L45,Papulosquamous disorders (including Psoriasis)
+L43,Lichen planus,1211.0,26.0,2020-2021,L40-L45,Papulosquamous disorders (including Psoriasis)
+L44,Other papulosquamous disorders,93.0,25.0,2020-2021,L40-L45,Papulosquamous disorders (including Psoriasis)
+L50,Urticaria,5932.0,2431.0,2020-2021,L50-L54,Urticaria and erythems
+L51,Erythema multiforme,621.0,567.0,2020-2021,L50-L54,Urticaria and erythems
+L52,Erythema nodosum,304.0,259.0,2020-2021,L50-L54,Urticaria and erythems
+L53,Other erythematous conditions,1389.0,1139.0,2020-2021,L50-L54,Urticaria and erythems
+L55,Sunburn,164.0,155.0,2020-2021,L55-L59,Radiation-related disorders of the skin and subcutaneous tissue
+L56,Other acute skin changes due to ultraviolet radiation,170.0,41.0,2020-2021,L55-L59,Radiation-related disorders of the skin and subcutaneous tissue
+L57,Skin changes due to chronic exposure to nonionizing radiation,9793.0,43.0,2020-2021,L55-L59,Radiation-related disorders of the skin and subcutaneous tissue
+L58,Radiodermatitis,22.0,14.0,2020-2021,L55-L59,Radiation-related disorders of the skin and subcutaneous tissue
+L59,Other disorders of skin and subcutaneous tissue related to radiation,109.0,36.0,2020-2021,L55-L59,Radiation-related disorders of the skin and subcutaneous tissue
+L60,Nail disorders,3092.0,311.0,2020-2021,L60-L75,Disorders of skin appendages
+L63,Alopecia areata,87.0,3.0,2020-2021,L60-L75,Disorders of skin appendages
+L64,Androgenic alopecia,22.0,0.0,2020-2021,L60-L75,Disorders of skin appendages
+L65,Other nonscarring hair loss,160.0,18.0,2020-2021,L60-L75,Disorders of skin appendages
+L66,Cicatricial alopecia [scarring hair loss],122.0,8.0,2020-2021,L60-L75,Disorders of skin appendages
+L67,Hair colour and hair shaft abnormalities,1.0,1.0,2020-2021,L60-L75,Disorders of skin appendages
+L68,Hypertrichosis,82.0,3.0,2020-2021,L60-L75,Disorders of skin appendages
+L70,Acne,151.0,61.0,2020-2021,L60-L75,Disorders of skin appendages
+L71,Rosacea,168.0,18.0,2020-2021,L60-L75,Disorders of skin appendages
+L72,Follicular cysts of skin and subcutaneous tissue,19768.0,9574.0,2020-2021,L60-L75,Disorders of skin appendages
+L73,Other follicular disorders,2628.0,1046.0,2020-2021,L60-L75,Disorders of skin appendages
+L74,Eccrine sweat disorders,86.0,66.0,2020-2021,L60-L75,Disorders of skin appendages
+L75,Apocrine sweat disorders,6.0,2.0,2020-2021,L60-L75,Disorders of skin appendages
+L80,Vitiligo,15.0,2.0,2020-2021,L80-L99,Other disorders of the skin and subcutaneous tissue
+L81,Other disorders of pigmentation,2063.0,83.0,2020-2021,L80-L99,Other disorders of the skin and subcutaneous tissue
+L82,Seborrhoeic keratosis,6885.0,24.0,2020-2021,L80-L99,Other disorders of the skin and subcutaneous tissue
+L83,Acanthosis nigricans,191.0,8.0,2020-2021,L80-L99,Other disorders of the skin and subcutaneous tissue
+L84,Corns and callosities,107.0,30.0,2020-2021,L80-L99,Other disorders of the skin and subcutaneous tissue
+L85,Other epidermal thickening,3330.0,58.0,2020-2021,L80-L99,Other disorders of the skin and subcutaneous tissue
+L87,Transepidermal elimination disorders,20.0,3.0,2020-2021,L80-L99,Other disorders of the skin and subcutaneous tissue
+L88,Pyoderma gangrenosum,481.0,146.0,2020-2021,L80-L99,Other disorders of the skin and subcutaneous tissue
+L89,Decubitus ulcer and pressure area,2686.0,2357.0,2020-2021,L80-L99,Other disorders of the skin and subcutaneous tissue
+L90,Atrophic disorders of skin,3882.0,200.0,2020-2021,L80-L99,Other disorders of the skin and subcutaneous tissue
+L91,Hypertrophic disorders of skin,1691.0,62.0,2020-2021,L80-L99,Other disorders of the skin and subcutaneous tissue
+L92,Granulomatous disorders of skin and subcutaneous tissue,1741.0,460.0,2020-2021,L80-L99,Other disorders of the skin and subcutaneous tissue
+L93,Lupus erythematosus,182.0,33.0,2020-2021,L80-L99,Other disorders of the skin and subcutaneous tissue
+L94,Other localized connective tissue disorders,532.0,31.0,2020-2021,L80-L99,Other disorders of the skin and subcutaneous tissue
+L95,"Vasculitis limited to skin, not elsewhere classified",659.0,429.0,2020-2021,L80-L99,Other disorders of the skin and subcutaneous tissue
+L97,"Ulcer of lower limb, not elsewhere classified",11216.0,8864.0,2020-2021,L80-L99,Other disorders of the skin and subcutaneous tissue
+L98,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",23834.0,1827.0,2020-2021,L80-L99,Other disorders of the skin and subcutaneous tissue
+L99,Other disorders of skin and subcutaneous tissue in diseases classified elsewhere,25.0,6.0,2020-2021,L80-L99,Other disorders of the skin and subcutaneous tissue
+M00,Pyogenic arthritis,3813.0,3270.0,2020-2021,M00-M25,Arthropathies
+M01,Direct infections of joint in infectious and parasitic diseases classified elsewhere,15.0,12.0,2020-2021,M00-M25,Arthropathies
+M02,Reactive arthropathies,536.0,460.0,2020-2021,M00-M25,Arthropathies
+M03,Postinfective and reactive arthropathies in diseases classified elsewhere,12.0,7.0,2020-2021,M00-M25,Arthropathies
+M05,Seropositive rheumatoid arthritis,19377.0,345.0,2020-2021,M00-M25,Arthropathies
+M06,Other rheumatoid arthritis,28925.0,1496.0,2020-2021,M00-M25,Arthropathies
+M07,Psoriatic and enteropathic arthropathies,2134.0,78.0,2020-2021,M00-M25,Arthropathies
+M08,Juvenile arthritis,9746.0,282.0,2020-2021,M00-M25,Arthropathies
+M09,Juvenile arthritis in diseases classified elsewhere,345.0,4.0,2020-2021,M00-M25,Arthropathies
+M10,Gout,5395.0,4931.0,2020-2021,M00-M25,Arthropathies
+M11,Other crystal arthropathies,1850.0,1759.0,2020-2021,M00-M25,Arthropathies
+M12,Other specific arthropathies,383.0,49.0,2020-2021,M00-M25,Arthropathies
+M13,Other arthritis,4962.0,1264.0,2020-2021,M00-M25,Arthropathies
+M14,Arthropathies in other diseases classified elsewhere,283.0,52.0,2020-2021,M00-M25,Arthropathies
+M15,Polyarthrosis,8788.0,995.0,2020-2021,M00-M25,Arthropathies
+M16,Coxarthrosis [arthrosis of hip],33933.0,2077.0,2020-2021,M00-M25,Arthropathies
+M17,Gonarthrosis [arthrosis of knee],37638.0,3251.0,2020-2021,M00-M25,Arthropathies
+M18,Arthrosis of first carpometacarpal joint,3311.0,33.0,2020-2021,M00-M25,Arthropathies
+M19,Other arthrosis,15494.0,1190.0,2020-2021,M00-M25,Arthropathies
+M20,Acquired deformities of fingers and toes,8682.0,122.0,2020-2021,M00-M25,Arthropathies
+M21,Other acquired deformities of limbs,3303.0,582.0,2020-2021,M00-M25,Arthropathies
+M22,Disorders of patella,1089.0,77.0,2020-2021,M00-M25,Arthropathies
+M23,Internal derangement of knee,21428.0,671.0,2020-2021,M00-M25,Arthropathies
+M24,Other specific joint derangements,7004.0,1056.0,2020-2021,M00-M25,Arthropathies
+M25,"Other joint disorders, not elsewhere classified",58618.0,39696.0,2020-2021,M00-M25,Arthropathies
+M30,Polyarteritis nodosa and related conditions,1300.0,451.0,2020-2021,M30-M36,Systemic connective tissue disorders
+M31,Other necrotizing vasculopathies,7900.0,2138.0,2020-2021,M30-M36,Systemic connective tissue disorders
+M32,Systemic lupus erythematosus,5157.0,549.0,2020-2021,M30-M36,Systemic connective tissue disorders
+M33,Dermatopolymyositis,3160.0,224.0,2020-2021,M30-M36,Systemic connective tissue disorders
+M34,Systemic sclerosis,1834.0,99.0,2020-2021,M30-M36,Systemic connective tissue disorders
+M35,Other systemic involvement of connective tissue,4307.0,895.0,2020-2021,M30-M36,Systemic connective tissue disorders
+M36,Systemic disorders of connective tissue in diseases classified elsewhere,15.0,13.0,2020-2021,M30-M36,Systemic connective tissue disorders
+M40,Kyphosis and lordosis,191.0,51.0,2020-2021,M40-M54,Dorsopathies
+M41,Scoliosis,2476.0,178.0,2020-2021,M40-M54,Dorsopathies
+M42,Spinal osteochondrosis,23.0,7.0,2020-2021,M40-M54,Dorsopathies
+M43,Other deforming dorsopathies,3166.0,892.0,2020-2021,M40-M54,Dorsopathies
+M45,Ankylosing spondylitis,3533.0,94.0,2020-2021,M40-M54,Dorsopathies
+M46,Other inflammatory spondylopathies,4755.0,2002.0,2020-2021,M40-M54,Dorsopathies
+M47,Spondylosis,14181.0,2786.0,2020-2021,M40-M54,Dorsopathies
+M48,Other spondylopathies,13739.0,4491.0,2020-2021,M40-M54,Dorsopathies
+M49,Spondylopathies in diseases classified elsewhere,337.0,184.0,2020-2021,M40-M54,Dorsopathies
+M50,Cervical disc disorders,5704.0,1430.0,2020-2021,M40-M54,Dorsopathies
+M51,Other intervertebral disc disorders,35583.0,13755.0,2020-2021,M40-M54,Dorsopathies
+M53,"Other dorsopathies, not elsewhere classified",1912.0,239.0,2020-2021,M40-M54,Dorsopathies
+M54,Dorsalgia,83249.0,50589.0,2020-2021,M40-M54,Dorsopathies
+M60,Myositis,2204.0,1249.0,2020-2021,M60-M79,Soft tissue disorders
+M61,Calcification and ossification of muscle,54.0,9.0,2020-2021,M60-M79,Soft tissue disorders
+M62,Other disorders of muscle,4166.0,2894.0,2020-2021,M60-M79,Soft tissue disorders
+M63,Disorders of muscle in diseases classified elsewhere,32.0,4.0,2020-2021,M60-M79,Soft tissue disorders
+M65,Synovitis and tenosynovitis,8043.0,1726.0,2020-2021,M60-M79,Soft tissue disorders
+M66,Spontaneous rupture of synovium and tendon,1431.0,822.0,2020-2021,M60-M79,Soft tissue disorders
+M67,Other disorders of synovium and tendon,4985.0,1098.0,2020-2021,M60-M79,Soft tissue disorders
+M68,Disorders of synovium and tendon in diseases classified elsewhere,1.0,1.0,2020-2021,M60-M79,Soft tissue disorders
+M70,"Soft tissue disorders related to use, overuse and pressure",5029.0,2809.0,2020-2021,M60-M79,Soft tissue disorders
+M71,Other bursopathies,3146.0,2482.0,2020-2021,M60-M79,Soft tissue disorders
+M72,Fibroblastic disorders,8245.0,762.0,2020-2021,M60-M79,Soft tissue disorders
+M73,Soft tissue disorders in diseases classified elsewhere,1.0,1.0,2020-2021,M60-M79,Soft tissue disorders
+M75,Shoulder lesions,15371.0,969.0,2020-2021,M60-M79,Soft tissue disorders
+M76,"Enthesopathies of lower limb, excluding foot",1277.0,246.0,2020-2021,M60-M79,Soft tissue disorders
+M77,Other enthesopathies,2475.0,284.0,2020-2021,M60-M79,Soft tissue disorders
+M79,"Other soft tissue disorders, not elsewhere classified",89456.0,73088.0,2020-2021,M60-M79,Soft tissue disorders
+M80,Osteoporosis with pathological fracture,6557.0,3025.0,2020-2021,M80-M94,Osteopathies and chondropathies
+M81,Osteoporosis without pathological fracture,26358.0,286.0,2020-2021,M80-M94,Osteopathies and chondropathies
+M82,Osteoporosis in diseases classified elsewhere,22.0,2.0,2020-2021,M80-M94,Osteopathies and chondropathies
+M83,Adult osteomalacia,29.0,14.0,2020-2021,M80-M94,Osteopathies and chondropathies
+M84,Disorders of continuity of bone,7106.0,2282.0,2020-2021,M80-M94,Osteopathies and chondropathies
+M85,Other disorders of bone density and structure,2271.0,127.0,2020-2021,M80-M94,Osteopathies and chondropathies
+M86,Osteomyelitis,10152.0,5919.0,2020-2021,M80-M94,Osteopathies and chondropathies
+M87,Osteonecrosis,1498.0,393.0,2020-2021,M80-M94,Osteopathies and chondropathies
+M88,Paget disease of bone [osteitis deformans],260.0,20.0,2020-2021,M80-M94,Osteopathies and chondropathies
+M89,Other disorders of bone,3158.0,610.0,2020-2021,M80-M94,Osteopathies and chondropathies
+M90,Osteopathies in diseases classified elsewhere,1801.0,1449.0,2020-2021,M80-M94,Osteopathies and chondropathies
+M91,Juvenile osteochondrosis of hip and pelvis,324.0,55.0,2020-2021,M80-M94,Osteopathies and chondropathies
+M92,Other juvenile osteochondrosis,313.0,53.0,2020-2021,M80-M94,Osteopathies and chondropathies
+M93,Other osteochondropathies,854.0,196.0,2020-2021,M80-M94,Osteopathies and chondropathies
+M94,Other disorders of cartilage,7384.0,6702.0,2020-2021,M80-M94,Osteopathies and chondropathies
+M95,Other acquired deformities of musculoskeletal system and connective tissue,342.0,39.0,2020-2021,M95-M99,Other disorders of the musculoskeletal system & conn. tiss.
+M96,"Postprocedural musculoskeletal disorders, not elsewhere classified",7542.0,5760.0,2020-2021,M95-M99,Other disorders of the musculoskeletal system & conn. tiss.
+M99,"Biomechanical lesions, not elsewhere classified",267.0,51.0,2020-2021,M95-M99,Other disorders of the musculoskeletal system & conn. tiss.
+N00,Acute nephritic syndrome,70.0,43.0,2020-2021,N00-N08,Glomerular diseases
+N01,Rapidly progressive nephritic syndrome,39.0,9.0,2020-2021,N00-N08,Glomerular diseases
+N02,Recurrent and persistent haematuria,1955.0,579.0,2020-2021,N00-N08,Glomerular diseases
+N03,Chronic nephritic syndrome,205.0,40.0,2020-2021,N00-N08,Glomerular diseases
+N04,Nephrotic syndrome,4003.0,1622.0,2020-2021,N00-N08,Glomerular diseases
+N05,Unspecified nephritic syndrome,1001.0,336.0,2020-2021,N00-N08,Glomerular diseases
+N06,Isolated proteinuria with specified morphological lesion,44.0,8.0,2020-2021,N00-N08,Glomerular diseases
+N07,"Hereditary nephropathy, not elsewhere classified",13.0,4.0,2020-2021,N00-N08,Glomerular diseases
+N08,Glomerular disorders in diseases classified elsewhere,397.0,77.0,2020-2021,N00-N08,Glomerular diseases
+N10,Acute tubulo-interstitial nephritis,3332.0,2990.0,2020-2021,N10-N16,Renal tubulo-interstitial diseases
+N11,Chronic tubulo-interstitial nephritis,539.0,330.0,2020-2021,N10-N16,Renal tubulo-interstitial diseases
+N12,"Tubulo-interstitial nephritis, not specified as acute or chronic",17972.0,16680.0,2020-2021,N10-N16,Renal tubulo-interstitial diseases
+N13,Obstructive and reflux uropathy,44794.0,28196.0,2020-2021,N10-N16,Renal tubulo-interstitial diseases
+N14,Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions,112.0,74.0,2020-2021,N10-N16,Renal tubulo-interstitial diseases
+N15,Other renal tubulo-interstitial diseases,649.0,509.0,2020-2021,N10-N16,Renal tubulo-interstitial diseases
+N16,Renal tubulo-interstitial disorders in diseases classified elsewhere,69.0,33.0,2020-2021,N10-N16,Renal tubulo-interstitial diseases
+N17,Acute renal failure,51397.0,47541.0,2020-2021,N17-N19,Renal failure
+N18,Chronic kidney disease,33200.0,7748.0,2020-2021,N17-N19,Renal failure
+N19,Unspecified kidney failure,675.0,273.0,2020-2021,N17-N19,Renal failure
+N20,Calculus of kidney and ureter,55510.0,21197.0,2020-2021,N20-N23,Urolithiasis
+N21,Calculus of lower urinary tract,6116.0,2329.0,2020-2021,N20-N23,Urolithiasis
+N23,Unspecified renal colic,4415.0,4279.0,2020-2021,N20-N23,Urolithiasis
+N25,Disorders resulting from impaired renal tubular function,258.0,118.0,2020-2021,N25-N29,Other disorders of kidney & ureter
+N26,Unspecified contracted kidney,266.0,40.0,2020-2021,N25-N29,Other disorders of kidney & ureter
+N27,Small kidney of unknown cause,53.0,7.0,2020-2021,N25-N29,Other disorders of kidney & ureter
+N28,"Other disorders of kidney and ureter, not elsewhere classified",4587.0,1588.0,2020-2021,N25-N29,Other disorders of kidney & ureter
+N29,Other disorders of kidney and ureter in diseases classified elsewhere,14.0,2.0,2020-2021,N25-N29,Other disorders of kidney & ureter
+N30,Cystitis,11880.0,1276.0,2020-2021,N30-N39,Other diseases of the urinary system
+N31,"Neuromuscular dysfunction of bladder, not elsewhere classified",2795.0,200.0,2020-2021,N30-N39,Other diseases of the urinary system
+N32,Other disorders of bladder,22180.0,3080.0,2020-2021,N30-N39,Other diseases of the urinary system
+N33,Bladder disorders in diseases classified elsewhere,1.0,0.0,2020-2021,N30-N39,Other diseases of the urinary system
+N34,Urethritis and urethral syndrome,358.0,133.0,2020-2021,N30-N39,Other diseases of the urinary system
+N35,Urethral stricture,11454.0,896.0,2020-2021,N30-N39,Other diseases of the urinary system
+N36,Other disorders of urethra,1471.0,325.0,2020-2021,N30-N39,Other diseases of the urinary system
+N37,Urethral disorders in diseases classified elsewhere,1.0,0.0,2020-2021,N30-N39,Other diseases of the urinary system
+N39,Other disorders of urinary system,129464.0,116326.0,2020-2021,N30-N39,Other diseases of the urinary system
+‡ N40,Hyperplasia of prostate,19810.0,3984.0,2020-2021,,
+‡ N41,Inflammatory diseases of prostate,3004.0,942.0,2020-2021,,
+‡ N42,Other disorders of prostate,1628.0,104.0,2020-2021,,
+‡ N43,Hydrocele and spermatocele,4758.0,1291.0,2020-2021,,
+‡ N44,Torsion of testis,4292.0,4030.0,2020-2021,,
+‡ N45,Orchitis and epididymitis,10166.0,9608.0,2020-2021,,
+N46,Male infertility,188.0,2.0,2020-2021,,
+‡ N47,"Redundant prepuce, phimosis and paraphimosis",12544.0,2046.0,2020-2021,,
+‡ N48,Other disorders of penis,7415.0,2890.0,2020-2021,,
+‡ N49,"Inflammatory disorders of male genital organs, not elsewhere classified",2048.0,1859.0,2020-2021,,
+‡ N50,Other disorders of male genital organs,13407.0,10260.0,2020-2021,,
+‡ N51,Disorders of male genital organs in diseases classified elsewhere,16.0,13.0,2020-2021,,
+N60,Benign mammary dysplasia,2817.0,418.0,2020-2021,N60-N64,Disorders of breast
+N61,Inflammatory disorders of breast,4534.0,3837.0,2020-2021,N60-N64,Disorders of breast
+N62,Hypertrophy of breast,474.0,31.0,2020-2021,N60-N64,Disorders of breast
+N63,Unspecified lump in breast,1467.0,468.0,2020-2021,N60-N64,Disorders of breast
+N64,Other disorders of breast,2758.0,816.0,2020-2021,N60-N64,Disorders of breast
+‡ N70,Salpingitis and oophoritis,2681.0,1743.0,2020-2021,,
+N71,"Inflammatory disease of uterus, except cervix",620.0,292.0,2020-2021,,
+‡ N72,Inflammatory disease of cervix uteri,514.0,58.0,2020-2021,,
+‡ N73,Other female pelvic inflammatory diseases,5620.0,3970.0,2020-2021,,
+N74,Female pelvic inflammatory disorders in diseases classified elsewhere,25.0,22.0,2020-2021,,
+‡ N75,Diseases of Bartholin gland,4138.0,3094.0,2020-2021,,
+‡ N76,Other inflammation of vagina and vulva,3131.0,2476.0,2020-2021,,
+N77,Vulvovaginal ulceration and inflammation in diseases classified elsewhere,38.0,34.0,2020-2021,,
+‡ N80,Endometriosis,13675.0,2987.0,2020-2021,,
+‡ N81,Female genital prolapse,9326.0,1032.0,2020-2021,,
+N82,Fistulae involving female genital tract,906.0,357.0,2020-2021,,
+‡ N83,"Noninflammatory disorders of ovary, fallopian tube and broad ligament",16642.0,10310.0,2020-2021,,
+‡ N84,Polyp of female genital tract,16048.0,326.0,2020-2021,,
+‡ N85,"Other noninflammatory disorders of uterus, except cervix",4334.0,376.0,2020-2021,,
+N86,Erosion and ectropion of cervix uteri,572.0,64.0,2020-2021,,
+N87,Dysplasia of cervix uteri,2996.0,21.0,2020-2021,,
+N88,Other noninflammatory disorders of cervix uteri,1001.0,84.0,2020-2021,,
+N89,Other noninflammatory disorders of vagina,2337.0,908.0,2020-2021,,
+‡ N90,Other noninflammatory disorders of vulva and perineum,3288.0,686.0,2020-2021,,
+‡ N91,"Absent, scanty and rare menstruation",283.0,83.0,2020-2021,,
+‡ N92,"Excessive, frequent and irregular menstruation",17590.0,5738.0,2020-2021,,
+‡ N93,Other abnormal uterine and vaginal bleeding,11399.0,8583.0,2020-2021,,
+‡ N94,Pain and other conditions associated with female genital organs and menstrual cycle,4694.0,2711.0,2020-2021,,
+‡ N95,Menopausal and other perimenopausal disorders,9476.0,1329.0,2020-2021,,
+N96,Habitual aborter,102.0,2.0,2020-2021,,
+‡ N97,Female infertility,6626.0,24.0,2020-2021,,
+‡ N98,Complications associated with artificial fertilization,481.0,459.0,2020-2021,,
+N99,"Postprocedural disorders of genitourinary system, not elsewhere classified",3041.0,1751.0,2020-2021,N99,Other disorders of the genitourinary system
+O00,Ectopic pregnancy,10003.0,8886.0,2020-2021,,
+O01,Hydatidiform mole,596.0,282.0,2020-2021,,
+O02,Other abnormal products of conception,16395.0,7206.0,2020-2021,,
+‡ O03,Spontaneous abortion,30681.0,20372.0,2020-2021,,
+O04,Medical abortion,25522.0,7017.0,2020-2021,,
+O05,Other abortion,19.0,9.0,2020-2021,,
+O06,Unspecified abortion,44.0,22.0,2020-2021,,
+O07,Failed attempted abortion,189.0,105.0,2020-2021,,
+O08,Complications following abortion and ectopic and molar pregnancy,1840.0,1547.0,2020-2021,,
+O10,"Pre-existing hypertension complicating pregnancy, childbirth and the puerperium",2818.0,97.0,2020-2021,O10-O16,"Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium"
+O11,Pre-eclampsia superimposed on chronic hypertension,498.0,8.0,2020-2021,O10-O16,"Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium"
+O12,Gestational [pregnancy-induced] oedema and proteinuria without hypertension,2398.0,121.0,2020-2021,O10-O16,"Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium"
+O13,Gestational [pregnancy-induced] hypertension,12501.0,233.0,2020-2021,O10-O16,"Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium"
+O14,Pre-eclampsia,11498.0,228.0,2020-2021,O10-O16,"Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium"
+O15,Eclampsia,217.0,15.0,2020-2021,O10-O16,"Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium"
+O16,Unspecified maternal hypertension,4752.0,130.0,2020-2021,O10-O16,"Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium"
+‡ O20,Haemorrhage in early pregnancy,29791.0,19928.0,2020-2021,,
+‡ O21,Excessive vomiting in pregnancy,30540.0,20928.0,2020-2021,,
+O22,Venous complications and haemorrhoids in pregnancy,1151.0,310.0,2020-2021,,
+O23,Infections of genitourinary tract in pregnancy,14494.0,2282.0,2020-2021,,
+O24,Diabetes mellitus in pregnancy,21353.0,314.0,2020-2021,,
+O25,Malnutrition in pregnancy,11.0,2.0,2020-2021,,
+‡ O26,Maternal care for other conditions predominantly related to pregnancy,79506.0,12927.0,2020-2021,,
+‡ O28,Abnormal findings on antenatal screening of mother,8844.0,4493.0,2020-2021,,
+O29,Complications of anaesthesia during pregnancy,27.0,4.0,2020-2021,,
+O30,Multiple gestation,2508.0,42.0,2020-2021,,
+O31,Complications specific to multiple gestation,149.0,12.0,2020-2021,,
+‡ O32,Maternal care for known or suspected malpresentation of fetus,31823.0,219.0,2020-2021,,
+O33,Maternal care for known or suspected disproportion,253.0,2.0,2020-2021,,
+O34,Maternal care for known or suspected abnormality of pelvic organs,59883.0,644.0,2020-2021,,
+O35,Maternal care for known or suspected fetal abnormality and damage,5090.0,129.0,2020-2021,,
+‡ O36,Maternal care for other known or suspected fetal problems,194447.0,3306.0,2020-2021,,
+O40,Polyhydramnios,3070.0,30.0,2020-2021,,
+O41,Other disorders of amniotic fluid and membranes,3456.0,96.0,2020-2021,,
+‡ O42,Premature rupture of membranes,40572.0,452.0,2020-2021,,
+O43,Placental disorders,1223.0,31.0,2020-2021,,
+O44,Placenta praevia,6571.0,107.0,2020-2021,,
+O45,Premature separation of placenta [abruptio placentae],1535.0,32.0,2020-2021,,
+‡ O46,"Antepartum haemorrhage, not elsewhere classified",20164.0,449.0,2020-2021,,
+O47,False labour,6571.0,103.0,2020-2021,,
+O48,Prolonged pregnancy,15037.0,73.0,2020-2021,,
+O60,Preterm labour and delivery,8994.0,133.0,2020-2021,O60-O75,Complications of labour and delivery
+O61,Failed induction of labour,4727.0,26.0,2020-2021,O60-O75,Complications of labour and delivery
+O62,Abnormalities of forces of labour,12647.0,50.0,2020-2021,O60-O75,Complications of labour and delivery
+O63,Long labour,36414.0,180.0,2020-2021,O60-O75,Complications of labour and delivery
+O64,Obstructed labour due to malposition and malpresentation of fetus,2648.0,12.0,2020-2021,O60-O75,Complications of labour and delivery
+O65,Obstructed labour due to maternal pelvic abnormality,151.0,1.0,2020-2021,O60-O75,Complications of labour and delivery
+O66,Other obstructed labour,5175.0,32.0,2020-2021,O60-O75,Complications of labour and delivery
+O67,"Labour and delivery complicated by intrapartum haemorrhage, not elsewhere classified",489.0,1.0,2020-2021,O60-O75,Complications of labour and delivery
+O68,Labour and delivery complicated by fetal stress [distress],96029.0,610.0,2020-2021,O60-O75,Complications of labour and delivery
+O69,Labour and delivery complicated by umbilical cord complications,1728.0,11.0,2020-2021,O60-O75,Complications of labour and delivery
+O70,Perineal laceration during delivery,111435.0,1162.0,2020-2021,O60-O75,Complications of labour and delivery
+O71,Other obstetric trauma,1495.0,27.0,2020-2021,O60-O75,Complications of labour and delivery
+O72,Postpartum haemorrhage,21458.0,1131.0,2020-2021,O60-O75,Complications of labour and delivery
+O73,"Retained placenta and membranes, without haemorrhage",1607.0,130.0,2020-2021,O60-O75,Complications of labour and delivery
+O74,Complications of anaesthesia during labour and delivery,559.0,22.0,2020-2021,O60-O75,Complications of labour and delivery
+O75,"Other complications of labour and delivery, not elsewhere classified",7066.0,54.0,2020-2021,O60-O75,Complications of labour and delivery
+O80,Single spontaneous delivery,20532.0,241.0,2020-2021,O80-O84,Delivery
+O81,Single delivery by forceps and vacuum extractor,139.0,2.0,2020-2021,O80-O84,Delivery
+O82,Single delivery by caesarean section,3748.0,4.0,2020-2021,O80-O84,Delivery
+O83,Other assisted single delivery,30.0,0.0,2020-2021,O80-O84,Delivery
+O85,Puerperal sepsis,1880.0,269.0,2020-2021,O85-O92,Complications predominantly related to the puerperium
+O86,Other puerperal infections,7652.0,767.0,2020-2021,O85-O92,Complications predominantly related to the puerperium
+O87,Venous complications and haemorrhoids in the puerperium,417.0,176.0,2020-2021,O85-O92,Complications predominantly related to the puerperium
+O88,Obstetric embolism,609.0,321.0,2020-2021,O85-O92,Complications predominantly related to the puerperium
+O89,Complications of anaesthesia during the puerperium,399.0,28.0,2020-2021,O85-O92,Complications predominantly related to the puerperium
+O90,"Complications of the puerperium, not elsewhere classified",10419.0,989.0,2020-2021,O85-O92,Complications predominantly related to the puerperium
+O91,Infections of breast associated with childbirth,1944.0,648.0,2020-2021,O85-O92,Complications predominantly related to the puerperium
+O92,Other disorders of breast and lactation associated with childbirth,356.0,34.0,2020-2021,O85-O92,Complications predominantly related to the puerperium
+O98,"Maternal infectious and parasitic diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",2141.0,265.0,2020-2021,,
+‡ O99,"Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",36411.0,3727.0,2020-2021,,
+P00,Fetus and newborn affected by maternal conditions that may be unrelated to present pregnancy,18.0,0.0,2020-2021,P00-P04,"Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery"
+P01,Fetus and newborn affected by maternal complications of pregnancy,21.0,0.0,2020-2021,P00-P04,"Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery"
+P02,"Fetus and newborn affected by complications of placenta, cord and membranes",174.0,0.0,2020-2021,P00-P04,"Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery"
+P03,Fetus and newborn affected by other complications of labour and delivery,27.0,1.0,2020-2021,P00-P04,"Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery"
+P04,Fetus and newborn affected by noxious influences transmitted via placenta or breast milk,3.0,0.0,2020-2021,P00-P04,"Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery"
+P05,Slow fetal growth and fetal malnutrition,4862.0,42.0,2020-2021,P05-P08,Disorders related to length of gestation and fetal growth
+P07,"Disorders related to short gestation and low birth weight, not elsewhere classified",39723.0,1042.0,2020-2021,P05-P08,Disorders related to length of gestation and fetal growth
+P08,Disorders related to long gestation and high birth weight,12117.0,83.0,2020-2021,P05-P08,Disorders related to length of gestation and fetal growth
+P10,Intracranial laceration and haemorrhage due to birth injury,45.0,5.0,2020-2021,P10-P15,Birth trauma
+P11,Other birth injuries to central nervous system,181.0,6.0,2020-2021,P10-P15,Birth trauma
+P12,Birth injury to scalp,4080.0,352.0,2020-2021,P10-P15,Birth trauma
+P13,Birth injury to skeleton,369.0,57.0,2020-2021,P10-P15,Birth trauma
+P14,Birth injury to peripheral nervous system,262.0,15.0,2020-2021,P10-P15,Birth trauma
+P15,Other birth injuries,4072.0,115.0,2020-2021,P10-P15,Birth trauma
+P20,Intrauterine hypoxia,20631.0,47.0,2020-2021,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period
+P21,Birth asphyxia,825.0,25.0,2020-2021,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period
+P22,Respiratory distress of newborn,18785.0,851.0,2020-2021,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period
+P23,Congenital pneumonia,682.0,78.0,2020-2021,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period
+P24,Neonatal aspiration syndromes,1193.0,181.0,2020-2021,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period
+P25,Interstitial emphysema and related conditions originating in the perinatal period,437.0,46.0,2020-2021,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period
+P26,Pulmonary haemorrhage originating in the perinatal period,41.0,8.0,2020-2021,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period
+P27,Chronic respiratory disease originating in the perinatal period,786.0,189.0,2020-2021,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period
+P28,Other respiratory conditions originating in the perinatal period,12331.0,2308.0,2020-2021,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period
+P29,Cardiovascular disorders originating in the perinatal period,3715.0,390.0,2020-2021,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period
+P35,Congenital viral diseases,214.0,98.0,2020-2021,P35-P39,Infections specific to the perinatal period
+P36,Bacterial sepsis of newborn,10228.0,1680.0,2020-2021,P35-P39,Infections specific to the perinatal period
+P37,Other congenital infectious and parasitic diseases,247.0,199.0,2020-2021,P35-P39,Infections specific to the perinatal period
+P38,Omphalitis of newborn with or without mild haemorrhage,682.0,539.0,2020-2021,P35-P39,Infections specific to the perinatal period
+P39,Other infections specific to the perinatal period,3333.0,2017.0,2020-2021,P35-P39,Infections specific to the perinatal period
+P50,Fetal blood loss,27.0,2.0,2020-2021,P50-P61,Haemorrhagic and haematological disorders of fetus and newborn
+P51,Umbilical haemorrhage of newborn,87.0,57.0,2020-2021,P50-P61,Haemorrhagic and haematological disorders of fetus and newborn
+P52,Intracranial nontraumatic haemorrhage of fetus and newborn,230.0,67.0,2020-2021,P50-P61,Haemorrhagic and haematological disorders of fetus and newborn
+P53,Haemorrhagic disease of fetus and newborn,10.0,3.0,2020-2021,P50-P61,Haemorrhagic and haematological disorders of fetus and newborn
+P54,Other neonatal haemorrhages,871.0,344.0,2020-2021,P50-P61,Haemorrhagic and haematological disorders of fetus and newborn
+P55,Haemolytic disease of fetus and newborn,799.0,187.0,2020-2021,P50-P61,Haemorrhagic and haematological disorders of fetus and newborn
+P56,Hydrops fetalis due to haemolytic disease,3.0,0.0,2020-2021,P50-P61,Haemorrhagic and haematological disorders of fetus and newborn
+P57,Kernicterus,7.0,4.0,2020-2021,P50-P61,Haemorrhagic and haematological disorders of fetus and newborn
+P58,Neonatal jaundice due to other excessive haemolysis,228.0,49.0,2020-2021,P50-P61,Haemorrhagic and haematological disorders of fetus and newborn
+P59,Neonatal jaundice from other and unspecified causes,42648.0,18903.0,2020-2021,P50-P61,Haemorrhagic and haematological disorders of fetus and newborn
+P61,Other perinatal haematological disorders,615.0,150.0,2020-2021,P50-P61,Haemorrhagic and haematological disorders of fetus and newborn
+P70,Transitory disorders of carbohydrate metabolism specific to fetus and newborn,5876.0,239.0,2020-2021,P70-P74,Transitory endocrine and metabolic disorders specific to fetus and newborn
+P71,Transitory neonatal disorders of calcium and magnesium metabolism,72.0,35.0,2020-2021,P70-P74,Transitory endocrine and metabolic disorders specific to fetus and newborn
+P72,Other transitory neonatal endocrine disorders,48.0,26.0,2020-2021,P70-P74,Transitory endocrine and metabolic disorders specific to fetus and newborn
+P74,Other transitory neonatal electrolyte and metabolic disturbances,590.0,322.0,2020-2021,P70-P74,Transitory endocrine and metabolic disorders specific to fetus and newborn
+P75,Meconium ileus in cystic fibrosis,10.0,5.0,2020-2021,P75-P78,Digestive system disorders of fetus and newborn
+P76,Other intestinal obstruction of newborn,287.0,126.0,2020-2021,P75-P78,Digestive system disorders of fetus and newborn
+P77,Necrotizing enterocolitis of fetus and newborn,352.0,150.0,2020-2021,P75-P78,Digestive system disorders of fetus and newborn
+P78,Other perinatal digestive system disorders,4146.0,3600.0,2020-2021,P75-P78,Digestive system disorders of fetus and newborn
+P80,Hypothermia of newborn,2518.0,133.0,2020-2021,P80-P83,Conditions involving the integument and temperature regulation of fetus and newborn
+P81,Other disturbances of temperature regulation of newborn,3072.0,459.0,2020-2021,P80-P83,Conditions involving the integument and temperature regulation of fetus and newborn
+P83,Other conditions of integument specific to fetus and newborn,4758.0,1085.0,2020-2021,P80-P83,Conditions involving the integument and temperature regulation of fetus and newborn
+P90,Convulsions of newborn,358.0,170.0,2020-2021,P90-P96,Other disorders originating in the perinatal period
+P91,Other disturbances of cerebral status of newborn,1328.0,340.0,2020-2021,P90-P96,Other disorders originating in the perinatal period
+P92,Feeding problems of newborn,14377.0,7444.0,2020-2021,P90-P96,Other disorders originating in the perinatal period
+P94,Disorders of muscle tone of newborn,841.0,184.0,2020-2021,P90-P96,Other disorders originating in the perinatal period
+P95,Fetal death of unspecified cause,1348.0,4.0,2020-2021,P90-P96,Other disorders originating in the perinatal period
+P96,Other conditions originating in the perinatal period,2862.0,1049.0,2020-2021,P90-P96,Other disorders originating in the perinatal period
+Q00,Anencephaly and similar malformations,19.0,0.0,2020-2021,Q00-Q07,Congenital malformations of the nervous system
+Q01,Encephalocele,127.0,26.0,2020-2021,Q00-Q07,Congenital malformations of the nervous system
+Q02,Microcephaly,140.0,20.0,2020-2021,Q00-Q07,Congenital malformations of the nervous system
+Q03,Congenital hydrocephalus,416.0,147.0,2020-2021,Q00-Q07,Congenital malformations of the nervous system
+Q04,Other congenital malformations of brain,875.0,143.0,2020-2021,Q00-Q07,Congenital malformations of the nervous system
+Q05,Spina bifida,591.0,75.0,2020-2021,Q00-Q07,Congenital malformations of the nervous system
+Q06,Other congenital malformations of spinal cord,236.0,16.0,2020-2021,Q00-Q07,Congenital malformations of the nervous system
+Q07,Other congenital malformations of nervous system,812.0,180.0,2020-2021,Q00-Q07,Congenital malformations of the nervous system
+Q10,"Congenital malformations of eyelid, lacrimal apparatus and orbit",468.0,21.0,2020-2021,Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+Q11,"Anophthalmos, microphthalmos and macrophthalmos",53.0,1.0,2020-2021,Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+Q12,Congenital lens malformations,499.0,4.0,2020-2021,Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+Q13,Congenital malformations of anterior segment of eye,90.0,14.0,2020-2021,Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+Q14,Congenital malformations of posterior segment of eye,40.0,4.0,2020-2021,Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+Q15,Other congenital malformations of eye,351.0,11.0,2020-2021,Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+Q16,Congenital malformations of ear causing impairment of hearing,51.0,2.0,2020-2021,Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+Q17,Other congenital malformations of ear,627.0,10.0,2020-2021,Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+Q18,Other congenital malformations of face and neck,1130.0,236.0,2020-2021,Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+Q20,Congenital malformations of cardiac chambers and connections,1157.0,169.0,2020-2021,Q20-Q28,Congenital malformations of the circulatory system
+Q21,Congenital malformations of cardiac septa,5331.0,611.0,2020-2021,Q20-Q28,Congenital malformations of the circulatory system
+Q22,Congenital malformations of pulmonary and tricuspid valves,722.0,90.0,2020-2021,Q20-Q28,Congenital malformations of the circulatory system
+Q23,Congenital malformations of aortic and mitral valves,1460.0,197.0,2020-2021,Q20-Q28,Congenital malformations of the circulatory system
+Q24,Other congenital malformations of heart,706.0,127.0,2020-2021,Q20-Q28,Congenital malformations of the circulatory system
+Q25,Congenital malformations of great arteries,2649.0,367.0,2020-2021,Q20-Q28,Congenital malformations of the circulatory system
+Q26,Congenital malformations of great veins,322.0,56.0,2020-2021,Q20-Q28,Congenital malformations of the circulatory system
+Q27,Other congenital malformations of peripheral vascular system,1613.0,148.0,2020-2021,Q20-Q28,Congenital malformations of the circulatory system
+Q28,Other congenital malformations of circulatory system,1399.0,208.0,2020-2021,Q20-Q28,Congenital malformations of the circulatory system
+Q30,Congenital malformations of nose,210.0,45.0,2020-2021,Q30-Q34,Congenital malformations of the respiratory system
+Q31,Congenital malformations of larynx,1778.0,920.0,2020-2021,Q30-Q34,Congenital malformations of the respiratory system
+Q32,Congenital malformations of trachea and bronchus,226.0,31.0,2020-2021,Q30-Q34,Congenital malformations of the respiratory system
+Q33,Congenital malformations of lung,305.0,31.0,2020-2021,Q30-Q34,Congenital malformations of the respiratory system
+Q34,Other congenital malformations of respiratory system,166.0,39.0,2020-2021,Q30-Q34,Congenital malformations of the respiratory system
+Q35,Cleft palate,657.0,41.0,2020-2021,Q35-Q37,Cleft lip and cleft palate
+Q36,Cleft lip,261.0,1.0,2020-2021,Q35-Q37,Cleft lip and cleft palate
+Q37,Cleft palate with cleft lip,923.0,7.0,2020-2021,Q35-Q37,Cleft lip and cleft palate
+Q38,"Other congenital malformations of tongue, mouth and pharynx",4174.0,385.0,2020-2021,Q38-Q45,Other congenital malformations of the digestive system
+Q39,Congenital malformations of oesophagus,690.0,96.0,2020-2021,Q38-Q45,Other congenital malformations of the digestive system
+Q40,Other congenital malformations of upper alimentary tract,850.0,599.0,2020-2021,Q38-Q45,Other congenital malformations of the digestive system
+Q41,"Congenital absence, atresia and stenosis of small intestine",203.0,50.0,2020-2021,Q38-Q45,Other congenital malformations of the digestive system
+Q42,"Congenital absence, atresia and stenosis of large intestine",487.0,73.0,2020-2021,Q38-Q45,Other congenital malformations of the digestive system
+Q43,Other congenital malformations of intestine,2018.0,804.0,2020-2021,Q38-Q45,Other congenital malformations of the digestive system
+Q44,"Congenital malformations of gallbladder, bile ducts and liver",531.0,183.0,2020-2021,Q38-Q45,Other congenital malformations of the digestive system
+Q45,Other congenital malformations of digestive system,98.0,14.0,2020-2021,Q38-Q45,Other congenital malformations of the digestive system
+Q50,"Congenital malformations of ovaries, fallopian tubes and broad ligaments",294.0,75.0,2020-2021,Q50-Q56,Congenital malformations of genital organs
+Q51,Congenital malformations of uterus and cervix,261.0,17.0,2020-2021,Q50-Q56,Congenital malformations of genital organs
+Q52,Other congenital malformations of female genitalia,411.0,85.0,2020-2021,Q50-Q56,Congenital malformations of genital organs
+‡ Q53,Undescended testicle,3834.0,218.0,2020-2021,,
+‡ Q54,Hypospadias,1674.0,43.0,2020-2021,,
+‡ Q55,Other congenital malformations of male genital organs,2125.0,1365.0,2020-2021,,
+Q56,Indeterminate sex and pseudohermaphroditism,55.0,6.0,2020-2021,Q50-Q56,Congenital malformations of genital organs
+Q60,Renal agenesis and other reduction defects of kidney,170.0,10.0,2020-2021,Q60-Q64,Congenital malformations of the urinary system
+Q61,Cystic kidney disease,901.0,293.0,2020-2021,Q60-Q64,Congenital malformations of the urinary system
+Q62,Congenital obstructive defects of renal pelvis and congenital malformations of ureter,1591.0,95.0,2020-2021,Q60-Q64,Congenital malformations of the urinary system
+Q63,Other congenital malformations of kidney,555.0,40.0,2020-2021,Q60-Q64,Congenital malformations of the urinary system
+Q64,Other congenital malformations of urinary system,800.0,88.0,2020-2021,Q60-Q64,Congenital malformations of the urinary system
+Q65,Congenital deformities of hip,1951.0,53.0,2020-2021,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Q66,Congenital deformities of feet,2393.0,41.0,2020-2021,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Q67,"Congenital musculoskeletal deformities of head, face, spine and chest",491.0,105.0,2020-2021,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Q68,Other congenital musculoskeletal deformities,285.0,80.0,2020-2021,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Q69,Polydactyly,890.0,80.0,2020-2021,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Q70,Syndactyly,260.0,5.0,2020-2021,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Q71,Reduction defects of upper limb,77.0,0.0,2020-2021,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Q72,Reduction defects of lower limb,200.0,2.0,2020-2021,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Q73,Reduction defects of unspecified limb,3.0,0.0,2020-2021,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Q74,Other congenital malformations of limb(s),541.0,14.0,2020-2021,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Q75,Other congenital malformations of skull and face bones,1204.0,163.0,2020-2021,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Q76,Congenital malformations of spine and bony thorax,338.0,25.0,2020-2021,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Q77,Osteochondrodysplasia with defects of growth of tubular bones and spine,217.0,8.0,2020-2021,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Q78,Other osteochondrodysplasias,1928.0,59.0,2020-2021,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Q79,"Congenital malformations of the musculoskeletal system, not elsewhere classified",960.0,220.0,2020-2021,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Q80,Congenital ichthyosis,62.0,14.0,2020-2021,Q80-Q89,Other congenital malformations
+Q81,Epidermolysis bullosa,126.0,22.0,2020-2021,Q80-Q89,Other congenital malformations
+Q82,Other congenital malformations of skin,1302.0,180.0,2020-2021,Q80-Q89,Other congenital malformations
+Q83,Congenital malformations of breast,111.0,2.0,2020-2021,Q80-Q89,Other congenital malformations
+Q84,Other congenital malformations of integument,65.0,12.0,2020-2021,Q80-Q89,Other congenital malformations
+Q85,"Phakomatoses, not elsewhere classified",1426.0,104.0,2020-2021,Q80-Q89,Other congenital malformations
+Q86,"Congenital malformation syndromes due to known exogenous causes, not elsewhere classified",6.0,1.0,2020-2021,Q80-Q89,Other congenital malformations
+Q87,Other specified congenital malformation syndromes affecting multiple systems,869.0,158.0,2020-2021,Q80-Q89,Other congenital malformations
+Q89,"Other congenital malformations, not elsewhere classified",620.0,78.0,2020-2021,Q80-Q89,Other congenital malformations
+Q90,Down syndrome,384.0,63.0,2020-2021,Q90-Q99,"Chromosomal abnormalities, not elsewhere classified"
+Q91,Edwards' syndrome and Patau syndrome,69.0,11.0,2020-2021,Q90-Q99,"Chromosomal abnormalities, not elsewhere classified"
+Q92,"Other trisomies and partial trisomies of the autosomes, not elsewhere classified",28.0,3.0,2020-2021,Q90-Q99,"Chromosomal abnormalities, not elsewhere classified"
+Q93,"Monosomies and deletions from the autosomes, not elsewhere classified",137.0,27.0,2020-2021,Q90-Q99,"Chromosomal abnormalities, not elsewhere classified"
+Q95,"Balanced rearrangements and structural markers, not elsewhere classified",6.0,1.0,2020-2021,Q90-Q99,"Chromosomal abnormalities, not elsewhere classified"
+Q96,Turner syndrome,64.0,3.0,2020-2021,Q90-Q99,"Chromosomal abnormalities, not elsewhere classified"
+Q97,"Other sex chromosome abnormalities, female phenotype, not elsewhere classified",9.0,0.0,2020-2021,Q90-Q99,"Chromosomal abnormalities, not elsewhere classified"
+‡ Q98,"Other sex chromosome abnormalities, male phenotype, not elsewhere classified",185.0,2.0,2020-2021,,
+Q99,"Other chromosome abnormalities, not elsewhere classified",157.0,16.0,2020-2021,Q90-Q99,"Chromosomal abnormalities, not elsewhere classified"
+R00,Abnormalities of heart beat,34989.0,30905.0,2020-2021,R00-R09,Symptoms & signs inv. the circulatory/respiratory system
+R01,Cardiac murmurs and other cardiac sounds,797.0,273.0,2020-2021,R00-R09,Symptoms & signs inv. the circulatory/respiratory system
+R02,"Gangrene, not elsewhere classified",1000.0,698.0,2020-2021,R00-R09,Symptoms & signs inv. the circulatory/respiratory system
+R03,"Abnormal blood-pressure reading, without diagnosis",1224.0,891.0,2020-2021,R00-R09,Symptoms & signs inv. the circulatory/respiratory system
+R04,Haemorrhage from respiratory passages,23050.0,20090.0,2020-2021,R00-R09,Symptoms & signs inv. the circulatory/respiratory system
+R05,Cough,8515.0,7039.0,2020-2021,R00-R09,Symptoms & signs inv. the circulatory/respiratory system
+R06,Abnormalities of breathing,62287.0,52826.0,2020-2021,R00-R09,Symptoms & signs inv. the circulatory/respiratory system
+R07,Pain in throat and chest,238341.0,223810.0,2020-2021,R00-R09,Symptoms & signs inv. the circulatory/respiratory system
+R09,Other symptoms and signs involving the circulatory and respiratory systems,3858.0,3304.0,2020-2021,R00-R09,Symptoms & signs inv. the circulatory/respiratory system
+R10,Abdominal and pelvic pain,268000.0,202375.0,2020-2021,R10-R19,Symptoms & signs inv. the digestive system & abdomen
+R11,Nausea and vomiting,34090.0,27781.0,2020-2021,R10-R19,Symptoms & signs inv. the digestive system & abdomen
+R12,Heartburn,2394.0,179.0,2020-2021,R10-R19,Symptoms & signs inv. the digestive system & abdomen
+R13,Dysphagia,34512.0,6116.0,2020-2021,R10-R19,Symptoms & signs inv. the digestive system & abdomen
+R14,Flatulence and related conditions,2613.0,1343.0,2020-2021,R10-R19,Symptoms & signs inv. the digestive system & abdomen
+R15,Faecal incontinence,2228.0,250.0,2020-2021,R10-R19,Symptoms & signs inv. the digestive system & abdomen
+R16,"Hepatomegaly and splenomegaly, not elsewhere classified",524.0,265.0,2020-2021,R10-R19,Symptoms & signs inv. the digestive system & abdomen
+R17,Unspecified jaundice,3322.0,2864.0,2020-2021,R10-R19,Symptoms & signs inv. the digestive system & abdomen
+R18,Ascites,8544.0,4546.0,2020-2021,R10-R19,Symptoms & signs inv. the digestive system & abdomen
+R19,Other symptoms and signs involving the digestive system and abdomen,45509.0,5679.0,2020-2021,R10-R19,Symptoms & signs inv. the digestive system & abdomen
+R20,Disturbances of skin sensation,7982.0,7266.0,2020-2021,R20-R23,Symptoms & signs inv. the skin & subcutaneous tissue
+R21,Rash and other nonspecific skin eruption,9749.0,8764.0,2020-2021,R20-R23,Symptoms & signs inv. the skin & subcutaneous tissue
+R22,"Localized swelling, mass and lump of skin and subcutaneous tissue",9794.0,7530.0,2020-2021,R20-R23,Symptoms & signs inv. the skin & subcutaneous tissue
+R23,Other skin changes,3607.0,3160.0,2020-2021,R20-R23,Symptoms & signs inv. the skin & subcutaneous tissue
+R25,Abnormal involuntary movements,6745.0,4548.0,2020-2021,R25-R29,Symptoms & signs inv. the nervous & musculoskeletal sys.
+R26,Abnormalities of gait and mobility,12315.0,10313.0,2020-2021,R25-R29,Symptoms & signs inv. the nervous & musculoskeletal sys.
+R27,Other lack of coordination,830.0,658.0,2020-2021,R25-R29,Symptoms & signs inv. the nervous & musculoskeletal sys.
+R29,Other symptoms and signs involving the nervous and musculoskeletal systems,82131.0,76806.0,2020-2021,R25-R29,Symptoms & signs inv. the nervous & musculoskeletal sys.
+R30,Pain associated with micturition,1935.0,1338.0,2020-2021,R30-R39,Symptoms & signs involving the urinary system
+R31,Unspecified haematuria,32101.0,17604.0,2020-2021,R30-R39,Symptoms & signs involving the urinary system
+R32,Unspecified urinary incontinence,2945.0,761.0,2020-2021,R30-R39,Symptoms & signs involving the urinary system
+R33,Retention of urine,27064.0,20597.0,2020-2021,R30-R39,Symptoms & signs involving the urinary system
+R34,Anuria and oliguria,245.0,224.0,2020-2021,R30-R39,Symptoms & signs involving the urinary system
+R35,Polyuria,2325.0,929.0,2020-2021,R30-R39,Symptoms & signs involving the urinary system
+R36,Urethral discharge,57.0,42.0,2020-2021,R30-R39,Symptoms & signs involving the urinary system
+R39,Other symptoms and signs involving the urinary system,7421.0,1388.0,2020-2021,R30-R39,Symptoms & signs involving the urinary system
+R40,"Somnolence, stupor and coma",4665.0,4443.0,2020-2021,R40-R46,Symptoms & signs inv. Cognition perception etc.
+R41,Other symptoms and signs involving cognitive functions and awareness,25766.0,24656.0,2020-2021,R40-R46,Symptoms & signs inv. Cognition perception etc.
+R42,Dizziness and giddiness,23842.0,22244.0,2020-2021,R40-R46,Symptoms & signs inv. Cognition perception etc.
+R43,Disturbances of smell and taste,117.0,80.0,2020-2021,R40-R46,Symptoms & signs inv. Cognition perception etc.
+R44,Other symptoms and signs involving general sensations and perceptions,2737.0,2607.0,2020-2021,R40-R46,Symptoms & signs inv. Cognition perception etc.
+R45,Symptoms and signs involving emotional state,13417.0,13059.0,2020-2021,R40-R46,Symptoms & signs inv. Cognition perception etc.
+R46,Symptoms and signs involving appearance and behaviour,2752.0,2567.0,2020-2021,R40-R46,Symptoms & signs inv. Cognition perception etc.
+R47,"Speech disturbances, not elsewhere classified",6223.0,5964.0,2020-2021,R47-R49,Symptoms & signs inv. speech & voice
+R48,"Dyslexia and other symbolic dysfunctions, not elsewhere classified",33.0,20.0,2020-2021,R47-R49,Symptoms & signs inv. speech & voice
+R49,Voice disturbances,772.0,158.0,2020-2021,R47-R49,Symptoms & signs inv. speech & voice
+R50,Fever of other and unknown origin,26559.0,24790.0,2020-2021,R50-R69,General symptoms & signs
+R51,Headache,61588.0,55656.0,2020-2021,R50-R69,General symptoms & signs
+R52,"Pain, not elsewhere classified",2905.0,989.0,2020-2021,R50-R69,General symptoms & signs
+R53,Malaise and fatigue,13611.0,11998.0,2020-2021,R50-R69,General symptoms & signs
+R54,Senility,4150.0,4002.0,2020-2021,R50-R69,General symptoms & signs
+R55,Syncope and collapse,60454.0,52282.0,2020-2021,R50-R69,General symptoms & signs
+R56,"Convulsions, not elsewhere classified",34887.0,32418.0,2020-2021,R50-R69,General symptoms & signs
+R57,"Shock, not elsewhere classified",113.0,104.0,2020-2021,R50-R69,General symptoms & signs
+R58,"Haemorrhage, not elsewhere classified",285.0,254.0,2020-2021,R50-R69,General symptoms & signs
+R59,Enlarged lymph nodes,9719.0,2459.0,2020-2021,R50-R69,General symptoms & signs
+R60,"Oedema, not elsewhere classified",6626.0,5882.0,2020-2021,R50-R69,General symptoms & signs
+R61,Hyperhidrosis,1222.0,314.0,2020-2021,R50-R69,General symptoms & signs
+R62,Lack of expected normal physiological development,2700.0,1512.0,2020-2021,R50-R69,General symptoms & signs
+R63,Symptoms and signs concerning food and fluid intake,19728.0,9553.0,2020-2021,R50-R69,General symptoms & signs
+R64,Cachexia,53.0,53.0,2020-2021,R50-R69,General symptoms & signs
+R65,Systemic Inflammatory Response Syndrome [SIRS],2.0,0.0,2020-2021,R50-R69,General symptoms & signs
+R68,Other general symptoms and signs,2746.0,2511.0,2020-2021,R50-R69,General symptoms & signs
+R69,Unknown and unspecified causes of morbidity,148692.0,43028.0,2020-2021,R50-R69,General symptoms & signs
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,44.0,33.0,2020-2021,R70-R79,"Abnormal findings on examination of blood, without diagnosis"
+R71,Abnormality of red blood cells,355.0,50.0,2020-2021,R70-R79,"Abnormal findings on examination of blood, without diagnosis"
+R72,"Abnormality of white blood cells, not elsewhere classified",224.0,139.0,2020-2021,R70-R79,"Abnormal findings on examination of blood, without diagnosis"
+R73,Elevated blood glucose level,1538.0,1348.0,2020-2021,R70-R79,"Abnormal findings on examination of blood, without diagnosis"
+R74,Abnormal serum enzyme levels,1045.0,447.0,2020-2021,R70-R79,"Abnormal findings on examination of blood, without diagnosis"
+R76,Other abnormal immunological findings in serum,631.0,43.0,2020-2021,R70-R79,"Abnormal findings on examination of blood, without diagnosis"
+R77,Other abnormalities of plasma proteins,611.0,280.0,2020-2021,R70-R79,"Abnormal findings on examination of blood, without diagnosis"
+R78,"Findings of drugs and other substances, not normally found in blood",72.0,59.0,2020-2021,R70-R79,"Abnormal findings on examination of blood, without diagnosis"
+R79,Other abnormal findings of blood chemistry,16323.0,5030.0,2020-2021,R70-R79,"Abnormal findings on examination of blood, without diagnosis"
+R80,Isolated proteinuria,408.0,119.0,2020-2021,R80-R82,"Abnormal findings on examination of urine, without diagnosis"
+R81,Glycosuria,30.0,23.0,2020-2021,R80-R82,"Abnormal findings on examination of urine, without diagnosis"
+R82,Other abnormal findings in urine,460.0,305.0,2020-2021,R80-R82,"Abnormal findings on examination of urine, without diagnosis"
+R83,Abnormal findings in cerebrospinal fluid,34.0,9.0,2020-2021,R83-R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis"
+R84,Abnormal findings in specimens from respiratory organs and thorax,128.0,26.0,2020-2021,R83-R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis"
+R85,Abnormal findings in specimens from digestive organs and abdominal cavity,237.0,19.0,2020-2021,R83-R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis"
+R86,Abnormal findings in specimens from male genital organs,38.0,2.0,2020-2021,R83-R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis"
+R87,Abnormal findings in specimens from female genital organs,810.0,9.0,2020-2021,R83-R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis"
+R89,"Abnormal findings in specimens from other organs, systems and tissues",244.0,41.0,2020-2021,R83-R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis"
+R90,Abnormal findings on diagnostic imaging of central nervous system,1870.0,1272.0,2020-2021,R90-R94,Abnormal findings on diagnostic imaging/function studies
+R91,Abnormal findings on diagnostic imaging of lung,8800.0,1744.0,2020-2021,R90-R94,Abnormal findings on diagnostic imaging/function studies
+R92,Abnormal findings on diagnostic imaging of breast,31.0,10.0,2020-2021,R90-R94,Abnormal findings on diagnostic imaging/function studies
+R93,Abnormal findings on diagnostic imaging of other body structures,15249.0,1589.0,2020-2021,R90-R94,Abnormal findings on diagnostic imaging/function studies
+R94,Abnormal results of function studies,8706.0,5244.0,2020-2021,R90-R94,Abnormal findings on diagnostic imaging/function studies
+R95,Sudden infant death syndrome,3.0,3.0,2020-2021,R95-R99,Ill-defined & unknown causes of mortality
+S00,Superficial injury of head,34223.0,33876.0,2020-2021,S00-S09,Injuries to the head
+S01,Open wound of head,43742.0,41097.0,2020-2021,S00-S09,Injuries to the head
+S02,Fracture of skull and facial bones,16412.0,13148.0,2020-2021,S00-S09,Injuries to the head
+S03,"Dislocation, sprain and strain of joints and ligaments of head",626.0,508.0,2020-2021,S00-S09,Injuries to the head
+S04,Injury of cranial nerves,72.0,55.0,2020-2021,S00-S09,Injuries to the head
+S05,Injury of eye and orbit,2438.0,2072.0,2020-2021,S00-S09,Injuries to the head
+S06,Intracranial injury,27539.0,25603.0,2020-2021,S00-S09,Injuries to the head
+S07,Crushing injury of head,1.0,1.0,2020-2021,S00-S09,Injuries to the head
+S08,Traumatic amputation of part of head,72.0,55.0,2020-2021,S00-S09,Injuries to the head
+S09,Other and unspecified injuries of head,18430.0,18198.0,2020-2021,S00-S09,Injuries to the head
+S10,Superficial injury of neck,743.0,727.0,2020-2021,S10-S19,Injuries to the neck
+S11,Open wound of neck,906.0,888.0,2020-2021,S10-S19,Injuries to the neck
+S12,Fracture of neck,4999.0,4601.0,2020-2021,S10-S19,Injuries to the neck
+S13,"Dislocation, sprain and strain of joints and ligaments at neck level",557.0,512.0,2020-2021,S10-S19,Injuries to the neck
+S14,Injury of nerves and spinal cord at neck level,741.0,488.0,2020-2021,S10-S19,Injuries to the neck
+S15,Injury of blood vessels at neck level,103.0,102.0,2020-2021,S10-S19,Injuries to the neck
+S16,Injury of muscle and tendon at neck level,80.0,80.0,2020-2021,S10-S19,Injuries to the neck
+S17,Crushing injury of neck,8.0,8.0,2020-2021,S10-S19,Injuries to the neck
+S19,Other and unspecified injuries of neck,471.0,464.0,2020-2021,S10-S19,Injuries to the neck
+S20,Superficial injury of thorax,1960.0,1918.0,2020-2021,S20-S29,Injuries to the thorax
+S21,Open wound of thorax,665.0,638.0,2020-2021,S20-S29,Injuries to the thorax
+S22,"Fracture of rib(s), sternum and thoracic spine",19509.0,18847.0,2020-2021,S20-S29,Injuries to the thorax
+S23,"Dislocation, sprain and strain of joints and ligaments of thorax",95.0,92.0,2020-2021,S20-S29,Injuries to the thorax
+S24,Injury of nerves and spinal cord at thorax level,156.0,75.0,2020-2021,S20-S29,Injuries to the thorax
+S25,Injury of blood vessels of thorax,75.0,66.0,2020-2021,S20-S29,Injuries to the thorax
+S26,Injury of heart,67.0,63.0,2020-2021,S20-S29,Injuries to the thorax
+S27,Injury of other and unspecified intrathoracic organs,3860.0,3709.0,2020-2021,S20-S29,Injuries to the thorax
+S28,Crushing injury of thorax and traumatic amputation of part of thorax,6.0,5.0,2020-2021,S20-S29,Injuries to the thorax
+S29,Other and unspecified injuries of thorax,763.0,697.0,2020-2021,S20-S29,Injuries to the thorax
+S30,"Superficial injury of abdomen, lower back and pelvis",4323.0,4121.0,2020-2021,S30-S39,"Injuries to abdomen, lower back, lumbar spine & pelvis"
+S31,"Open wound of abdomen, lower back and pelvis",3054.0,2910.0,2020-2021,S30-S39,"Injuries to abdomen, lower back, lumbar spine & pelvis"
+S32,Fracture of lumbar spine and pelvis,23170.0,21536.0,2020-2021,S30-S39,"Injuries to abdomen, lower back, lumbar spine & pelvis"
+S33,"Dislocation, sprain and strain of joints and ligaments of lumbar spine and pelvis",209.0,199.0,2020-2021,S30-S39,"Injuries to abdomen, lower back, lumbar spine & pelvis"
+S34,"Injury of nerves and lumbar spinal cord at abdomen, lower back and pelvis level",84.0,65.0,2020-2021,S30-S39,"Injuries to abdomen, lower back, lumbar spine & pelvis"
+S35,"Injury of blood vessels at abdomen, lower back and pelvis level",185.0,175.0,2020-2021,S30-S39,"Injuries to abdomen, lower back, lumbar spine & pelvis"
+S36,Injury of intra-abdominal organs,2053.0,1971.0,2020-2021,S30-S39,"Injuries to abdomen, lower back, lumbar spine & pelvis"
+S37,Injury of urinary and pelvic organs,1141.0,1024.0,2020-2021,S30-S39,"Injuries to abdomen, lower back, lumbar spine & pelvis"
+S38,"Crushing injury and traumatic amputation of part of abdomen, lower back and pelvis",39.0,39.0,2020-2021,S30-S39,"Injuries to abdomen, lower back, lumbar spine & pelvis"
+S39,"Other and unspecified injuries of abdomen, lower back and pelvis",2099.0,2012.0,2020-2021,S30-S39,"Injuries to abdomen, lower back, lumbar spine & pelvis"
+S40,Superficial injury of shoulder and upper arm,1949.0,1910.0,2020-2021,S40-S49,Injuries to the shoulder & upper arm
+S41,Open wound of shoulder and upper arm,1539.0,1415.0,2020-2021,S40-S49,Injuries to the shoulder & upper arm
+S42,Fracture of shoulder and upper arm,29919.0,24302.0,2020-2021,S40-S49,Injuries to the shoulder & upper arm
+S43,"Dislocation, sprain and strain of joints and ligaments of shoulder girdle",3743.0,3197.0,2020-2021,S40-S49,Injuries to the shoulder & upper arm
+S44,Injury of nerves at shoulder and upper arm level,80.0,53.0,2020-2021,S40-S49,Injuries to the shoulder & upper arm
+S45,Injury of blood vessels at shoulder and upper arm level,88.0,84.0,2020-2021,S40-S49,Injuries to the shoulder & upper arm
+S46,Injury of muscle and tendon at shoulder and upper arm level,2730.0,1181.0,2020-2021,S40-S49,Injuries to the shoulder & upper arm
+S47,Crushing injury of shoulder and upper arm,6.0,6.0,2020-2021,S40-S49,Injuries to the shoulder & upper arm
+S48,Traumatic amputation of shoulder and upper arm,7.0,3.0,2020-2021,S40-S49,Injuries to the shoulder & upper arm
+S49,Other and unspecified injuries of shoulder and upper arm,898.0,878.0,2020-2021,S40-S49,Injuries to the shoulder & upper arm
+S50,Superficial injury of forearm,2194.0,2131.0,2020-2021,S50-S59,Injuries to the elbow & forearm
+S51,Open wound of forearm,8300.0,7394.0,2020-2021,S50-S59,Injuries to the elbow & forearm
+S52,Fracture of forearm,44015.0,30851.0,2020-2021,S50-S59,Injuries to the elbow & forearm
+S53,"Dislocation, sprain and strain of joints and ligaments of elbow",699.0,570.0,2020-2021,S50-S59,Injuries to the elbow & forearm
+S54,Injury of nerves at forearm level,338.0,198.0,2020-2021,S50-S59,Injuries to the elbow & forearm
+S55,Injury of blood vessels at forearm level,157.0,135.0,2020-2021,S50-S59,Injuries to the elbow & forearm
+S56,Injury of muscle and tendon at forearm level,1973.0,1080.0,2020-2021,S50-S59,Injuries to the elbow & forearm
+S57,Crushing injury of forearm,14.0,13.0,2020-2021,S50-S59,Injuries to the elbow & forearm
+S58,Traumatic amputation of forearm,7.0,6.0,2020-2021,S50-S59,Injuries to the elbow & forearm
+S59,Other and unspecified injuries of forearm,346.0,332.0,2020-2021,S50-S59,Injuries to the elbow & forearm
+S60,Superficial injury of wrist and hand,2528.0,2187.0,2020-2021,S60-S69,Injuries to the wrist & hand
+S61,Open wound of wrist and hand,26140.0,18155.0,2020-2021,S60-S69,Injuries to the wrist & hand
+S62,Fracture at wrist and hand level,19481.0,11391.0,2020-2021,S60-S69,Injuries to the wrist & hand
+S63,"Dislocation, sprain and strain of joints and ligaments at wrist and hand level",2781.0,1604.0,2020-2021,S60-S69,Injuries to the wrist & hand
+S64,Injury of nerves at wrist and hand level,4576.0,1968.0,2020-2021,S60-S69,Injuries to the wrist & hand
+S65,Injury of blood vessels at wrist and hand level,441.0,276.0,2020-2021,S60-S69,Injuries to the wrist & hand
+S66,Injury of muscle and tendon at wrist and hand level,8354.0,3989.0,2020-2021,S60-S69,Injuries to the wrist & hand
+S67,Crushing injury of wrist and hand,591.0,335.0,2020-2021,S60-S69,Injuries to the wrist & hand
+S68,Traumatic amputation of wrist and hand,3350.0,2178.0,2020-2021,S60-S69,Injuries to the wrist & hand
+S69,Other and unspecified injuries of wrist and hand,1312.0,1133.0,2020-2021,S60-S69,Injuries to the wrist & hand
+S70,Superficial injury of hip and thigh,3379.0,3292.0,2020-2021,S70-S79,Injuries to the hip & thigh
+S71,Open wound of hip and thigh,1741.0,1593.0,2020-2021,S70-S79,Injuries to the hip & thigh
+S72,Fracture of femur,72957.0,68294.0,2020-2021,S70-S79,Injuries to the hip & thigh
+S73,"Dislocation, sprain and strain of joint and ligaments of hip",593.0,552.0,2020-2021,S70-S79,Injuries to the hip & thigh
+S74,Injury of nerves at hip and thigh level,29.0,22.0,2020-2021,S70-S79,Injuries to the hip & thigh
+S75,Injury of blood vessels at hip and thigh level,83.0,78.0,2020-2021,S70-S79,Injuries to the hip & thigh
+S76,Injury of muscle and tendon at hip and thigh level,2414.0,1693.0,2020-2021,S70-S79,Injuries to the hip & thigh
+S77,Crushing injury of hip and thigh,8.0,8.0,2020-2021,S70-S79,Injuries to the hip & thigh
+S78,Traumatic amputation of hip and thigh,5.0,4.0,2020-2021,S70-S79,Injuries to the hip & thigh
+S79,Other and unspecified injuries of hip and thigh,1415.0,1394.0,2020-2021,S70-S79,Injuries to the hip & thigh
+S80,Superficial injury of lower leg,5385.0,5127.0,2020-2021,S80-S89,Injuries to the knee & lower leg
+S81,Open wound of lower leg,7419.0,6745.0,2020-2021,S80-S89,Injuries to the knee & lower leg
+S82,"Fracture of lower leg, including ankle",44004.0,37282.0,2020-2021,S80-S89,Injuries to the knee & lower leg
+S83,"Dislocation, sprain and strain of joints and ligaments of knee",4374.0,1677.0,2020-2021,S80-S89,Injuries to the knee & lower leg
+S84,Injury of nerves at lower leg level,80.0,55.0,2020-2021,S80-S89,Injuries to the knee & lower leg
+S85,Injury of blood vessels at lower leg level,69.0,68.0,2020-2021,S80-S89,Injuries to the knee & lower leg
+S86,Injury of muscle and tendon at lower leg level,1917.0,1285.0,2020-2021,S80-S89,Injuries to the knee & lower leg
+S87,Crushing injury of lower leg,25.0,24.0,2020-2021,S80-S89,Injuries to the knee & lower leg
+S88,Traumatic amputation of lower leg,15.0,12.0,2020-2021,S80-S89,Injuries to the knee & lower leg
+S89,Other and unspecified injuries of lower leg,1462.0,1415.0,2020-2021,S80-S89,Injuries to the knee & lower leg
+S90,Superficial injury of ankle and foot,1662.0,1529.0,2020-2021,S90-S99,Injuries to the ankle & foot
+S91,Open wound of ankle and foot,3321.0,2646.0,2020-2021,S90-S99,Injuries to the ankle & foot
+S92,"Fracture of foot, except ankle",6657.0,5430.0,2020-2021,S90-S99,Injuries to the ankle & foot
+S93,"Dislocation, sprain and strain of joints and ligaments at ankle and foot level",1802.0,1534.0,2020-2021,S90-S99,Injuries to the ankle & foot
+S94,Injury of nerves at ankle and foot level,36.0,23.0,2020-2021,S90-S99,Injuries to the ankle & foot
+S95,Injury of blood vessels at ankle and foot level,23.0,22.0,2020-2021,S90-S99,Injuries to the ankle & foot
+S96,Injury of muscle and tendon at ankle and foot level,545.0,378.0,2020-2021,S90-S99,Injuries to the ankle & foot
+S97,Crushing injury of ankle and foot,72.0,55.0,2020-2021,S90-S99,Injuries to the ankle & foot
+S98,Traumatic amputation of ankle and foot,109.0,95.0,2020-2021,S90-S99,Injuries to the ankle & foot
+S99,Other and unspecified injuries of ankle and foot,1123.0,1082.0,2020-2021,S90-S99,Injuries to the ankle & foot
+T00,Superficial injuries involving multiple body regions,982.0,953.0,2020-2021,T00-T07,Injuries involving multiple body regions
+T01,Open wounds involving multiple body regions,1353.0,1265.0,2020-2021,T00-T07,Injuries involving multiple body regions
+T02,Fractures involving multiple body regions,1440.0,1206.0,2020-2021,T00-T07,Injuries involving multiple body regions
+T03,"Dislocations, sprains and strains involving multiple body regions",48.0,44.0,2020-2021,T00-T07,Injuries involving multiple body regions
+T04,Crushing injuries involving multiple body regions,23.0,22.0,2020-2021,T00-T07,Injuries involving multiple body regions
+T05,Traumatic amputations involving multiple body regions,6.0,4.0,2020-2021,T00-T07,Injuries involving multiple body regions
+T06,"Other injuries involving multiple body regions, not elsewhere classified",87.0,73.0,2020-2021,T00-T07,Injuries involving multiple body regions
+T08,"Fracture of spine, level unspecified",1.0,1.0,2020-2021,T08-T14,Injuries to unspecified part of trunk limb or body
+T09,"Other injuries of spine and trunk, level unspecified",189.0,174.0,2020-2021,T08-T14,Injuries to unspecified part of trunk limb or body
+T10,"Fracture of upper limb, level unspecified",2.0,1.0,2020-2021,T08-T14,Injuries to unspecified part of trunk limb or body
+T11,"Other injuries of upper limb, level unspecified",565.0,519.0,2020-2021,T08-T14,Injuries to unspecified part of trunk limb or body
+T12,"Fracture of lower limb, level unspecified",5.0,5.0,2020-2021,T08-T14,Injuries to unspecified part of trunk limb or body
+T13,"Other injuries of lower limb, level unspecified",402.0,371.0,2020-2021,T08-T14,Injuries to unspecified part of trunk limb or body
+T14,Injury of unspecified body region,17.0,7.0,2020-2021,T08-T14,Injuries to unspecified part of trunk limb or body
+T15,Foreign body on external eye,470.0,350.0,2020-2021,T15-T19,Effects of foreign body entering through natural orifice
+T16,Foreign body in ear,2453.0,1118.0,2020-2021,T15-T19,Effects of foreign body entering through natural orifice
+T17,Foreign body in respiratory tract,4670.0,4060.0,2020-2021,T15-T19,Effects of foreign body entering through natural orifice
+T18,Foreign body in alimentary tract,8740.0,8343.0,2020-2021,T15-T19,Effects of foreign body entering through natural orifice
+T19,Foreign body in genitourinary tract,1108.0,933.0,2020-2021,T15-T19,Effects of foreign body entering through natural orifice
+T20,Burn and corrosion of head and neck,1578.0,1396.0,2020-2021,T20-T32,Burns and corrosions
+T21,Burn and corrosion of trunk,1835.0,1534.0,2020-2021,T20-T32,Burns and corrosions
+T22,"Burn and corrosion of shoulder and upper limb, except wrist and hand",1408.0,1149.0,2020-2021,T20-T32,Burns and corrosions
+T23,Burn and corrosion of wrist and hand,2037.0,1717.0,2020-2021,T20-T32,Burns and corrosions
+T24,"Burn and corrosion of hip and lower limb, except ankle and foot",1824.0,1486.0,2020-2021,T20-T32,Burns and corrosions
+T25,Burn and corrosion of ankle and foot,1094.0,887.0,2020-2021,T20-T32,Burns and corrosions
+T26,Burn and corrosion confined to eye and adnexa,139.0,122.0,2020-2021,T20-T32,Burns and corrosions
+T27,Burn and corrosion of respiratory tract,42.0,42.0,2020-2021,T20-T32,Burns and corrosions
+T28,Burn and corrosion of other internal organs,101.0,95.0,2020-2021,T20-T32,Burns and corrosions
+T29,Burns and corrosions of multiple body regions,330.0,284.0,2020-2021,T20-T32,Burns and corrosions
+T30,"Burn and corrosion, body region unspecified",2.0,2.0,2020-2021,T20-T32,Burns and corrosions
+T31,Burns classified according to extent of body surface involved,5.0,4.0,2020-2021,T20-T32,Burns and corrosions
+T33,Superficial frostbite,8.0,7.0,2020-2021,T33-T35,Frostbite
+T34,Frostbite with tissue necrosis,17.0,16.0,2020-2021,T33-T35,Frostbite
+T35,Frostbite involving multiple body regions and unspecified frostbite,9.0,8.0,2020-2021,T33-T35,Frostbite
+T36,Poisoning by systemic antibiotics,395.0,390.0,2020-2021,T36-T50,Poisonings by drugs medicaments & biological substances
+T37,Poisoning by other systemic anti-infectives and antiparasitics,211.0,210.0,2020-2021,T36-T50,Poisonings by drugs medicaments & biological substances
+T38,"Poisoning by hormones and their synthetic substitutes and antagonists, not elsewhere classified",2709.0,2696.0,2020-2021,T36-T50,Poisonings by drugs medicaments & biological substances
+T39,"Poisoning by nonopioid analgesics, antipyretics and antirheumatics",44126.0,43981.0,2020-2021,T36-T50,Poisonings by drugs medicaments & biological substances
+T40,Poisoning by narcotics and psychodysleptics [hallucinogens],14963.0,14921.0,2020-2021,T36-T50,Poisonings by drugs medicaments & biological substances
+T41,Poisoning by anaesthetics and therapeutic gases,358.0,352.0,2020-2021,T36-T50,Poisonings by drugs medicaments & biological substances
+T42,"Poisoning by antiepileptic, sedative-hypnotic and antiparkinsonism drugs",13484.0,13451.0,2020-2021,T36-T50,Poisonings by drugs medicaments & biological substances
+T43,"Poisoning by psychotropic drugs, not elsewhere classified",21064.0,21010.0,2020-2021,T36-T50,Poisonings by drugs medicaments & biological substances
+T44,Poisoning by drugs primarily affecting the autonomic nervous system,2512.0,2508.0,2020-2021,T36-T50,Poisonings by drugs medicaments & biological substances
+T45,"Poisoning by primarily systemic and haematological agents, not elsewhere classified",2574.0,2546.0,2020-2021,T36-T50,Poisonings by drugs medicaments & biological substances
+T46,Poisoning by agents primarily affecting the cardiovascular system,1572.0,1565.0,2020-2021,T36-T50,Poisonings by drugs medicaments & biological substances
+T47,Poisoning by agents primarily affecting the gastrointestinal system,391.0,388.0,2020-2021,T36-T50,Poisonings by drugs medicaments & biological substances
+T48,Poisoning by agents primarily acting on smooth and skeletal muscles and the respiratory system,282.0,281.0,2020-2021,T36-T50,Poisonings by drugs medicaments & biological substances
+T49,"Poisoning by topical agents primarily affecting skin and mucous membrane and by ophthalmological, otorhinolaryngological and dental drugs",464.0,463.0,2020-2021,T36-T50,Poisonings by drugs medicaments & biological substances
+T50,"Poisoning by diuretics and other and unspecified drugs, medicaments and biological substances",2756.0,2744.0,2020-2021,T36-T50,Poisonings by drugs medicaments & biological substances
+T51,Toxic effect of alcohol,1134.0,1128.0,2020-2021,T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source
+T52,Toxic effect of organic solvents,638.0,635.0,2020-2021,T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source
+T53,Toxic effect of halogen derivatives of aliphatic and aromatic hydrocarbons,22.0,22.0,2020-2021,T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source
+T54,Toxic effect of corrosive substances,1069.0,1065.0,2020-2021,T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source
+T55,Toxic effect of soaps and detergents,311.0,310.0,2020-2021,T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source
+T56,Toxic effect of metals,319.0,308.0,2020-2021,T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source
+T57,Toxic effect of other inorganic substances,8.0,8.0,2020-2021,T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source
+T58,Toxic effect of carbon monoxide,201.0,201.0,2020-2021,T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source
+T59,"Toxic effect of other gases, fumes and vapours",756.0,748.0,2020-2021,T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source
+T60,Toxic effect of pesticides,162.0,159.0,2020-2021,T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source
+T61,Toxic effect of noxious substances eaten as seafood,13.0,13.0,2020-2021,T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source
+T62,Toxic effect of other noxious substances eaten as food,231.0,229.0,2020-2021,T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source
+T63,Toxic effect of contact with venomous animals,1212.0,495.0,2020-2021,T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source
+T65,Toxic effect of other and unspecified substances,698.0,695.0,2020-2021,T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source
+T66,Unspecified effects of radiation,17.0,8.0,2020-2021,T66-T78,Other and unspecified effects of external causes
+T67,Effects of heat and light,214.0,211.0,2020-2021,T66-T78,Other and unspecified effects of external causes
+T68,Hypothermia,889.0,876.0,2020-2021,T66-T78,Other and unspecified effects of external causes
+T69,Other effects of reduced temperature,82.0,67.0,2020-2021,T66-T78,Other and unspecified effects of external causes
+T70,Effects of air pressure and water pressure,8.0,7.0,2020-2021,T66-T78,Other and unspecified effects of external causes
+T71,Asphyxiation,566.0,563.0,2020-2021,T66-T78,Other and unspecified effects of external causes
+T73,Effects of other deprivation,69.0,68.0,2020-2021,T66-T78,Other and unspecified effects of external causes
+T74,Maltreatment syndromes,1168.0,1077.0,2020-2021,T66-T78,Other and unspecified effects of external causes
+T75,Effects of other external causes,359.0,342.0,2020-2021,T66-T78,Other and unspecified effects of external causes
+T78,"Adverse effects, not elsewhere classified",13195.0,10418.0,2020-2021,T66-T78,Other and unspecified effects of external causes
+T79,"Certain early complications of trauma, not elsewhere classified",2864.0,2690.0,2020-2021,T79-T79,Certain early complications of trauma
+T80,"Complications following infusion, transfusion and therapeutic injection",873.0,598.0,2020-2021,T80-T88,Complications of surgical & medical care nec.
+T81,"Complications of procedures, not elsewhere classified",42033.0,34042.0,2020-2021,T80-T88,Complications of surgical & medical care nec.
+T82,"Complications of cardiac and vascular prosthetic devices, implants and grafts",25697.0,11710.0,2020-2021,T80-T88,Complications of surgical & medical care nec.
+T83,"Complications of genitourinary prosthetic devices, implants and grafts",30522.0,26291.0,2020-2021,T80-T88,Complications of surgical & medical care nec.
+T84,"Complications of internal orthopaedic prosthetic devices, implants and grafts",26995.0,11144.0,2020-2021,T80-T88,Complications of surgical & medical care nec.
+T85,"Complications of other internal prosthetic devices, implants and grafts",21543.0,12108.0,2020-2021,T80-T88,Complications of surgical & medical care nec.
+T86,Failure and rejection of transplanted organs and tissues,6061.0,1206.0,2020-2021,T80-T88,Complications of surgical & medical care nec.
+T87,Complications peculiar to reattachment and amputation,1572.0,947.0,2020-2021,T80-T88,Complications of surgical & medical care nec.
+T88,"Other complications of surgical and medical care, not elsewhere classified",2717.0,2157.0,2020-2021,T80-T88,Complications of surgical & medical care nec.
+T90,Sequelae of injuries of head,1.0,0.0,2020-2021,T90-T98,Sequelae of injuries of poisoning & other consequences
+U04,Severe acute respiratory syndrome [SARS],12.0,10.0,2020-2021,U00-U49,Provisional assignment of new diseases of uncertain etiology
+U06,Emergency use of U06,1.0,1.0,2020-2021,U00-U49,Provisional assignment of new diseases of uncertain etiology
+U07,Emergency use of U07,253683.0,245514.0,2020-2021,U00-U49,Provisional assignment of new diseases of uncertain etiology
+Z00,General examination and investigation of persons without complaint and reported diagnosis,723.0,153.0,2020-2021,Z00-Z13,Examination and investigation
+Z01,Other special examinations and investigations of persons without complaint or reported diagnosis,10064.0,492.0,2020-2021,Z00-Z13,Examination and investigation
+Z03,Medical observation and evaluation for suspected diseases and conditions,43743.0,12618.0,2020-2021,Z00-Z13,Examination and investigation
+Z04,Examination and observation for other reasons,5823.0,4347.0,2020-2021,Z00-Z13,Examination and investigation
+Z08,Follow-up examination after treatment for malignant neoplasms,36242.0,263.0,2020-2021,Z00-Z13,Examination and investigation
+Z09,Follow-up examination after treatment for conditions other than malignant neoplasms,36299.0,2894.0,2020-2021,Z00-Z13,Examination and investigation
+Z11,Special screening examination for infectious and parasitic diseases,3162.0,1307.0,2020-2021,Z00-Z13,Examination and investigation
+Z12,Special screening examination for neoplasms,11057.0,31.0,2020-2021,Z00-Z13,Examination and investigation
+Z13,Special screening examination for other diseases and disorders,9984.0,785.0,2020-2021,Z00-Z13,Examination and investigation
+Z20,Contact with and exposure to communicable diseases,95.0,37.0,2020-2021,Z20-Z29,Potential health hazards related to communicable diseases
+Z22,Carrier of infectious disease,81.0,15.0,2020-2021,Z20-Z29,Potential health hazards related to communicable diseases
+Z23,Need for immunization against single bacterial diseases,122.0,1.0,2020-2021,Z20-Z29,Potential health hazards related to communicable diseases
+Z24,Need for immunization against certain single viral diseases,88.0,3.0,2020-2021,Z20-Z29,Potential health hazards related to communicable diseases
+Z25,Need for immunization against other single viral diseases,350.0,10.0,2020-2021,Z20-Z29,Potential health hazards related to communicable diseases
+Z26,Need for immunization against other single infectious diseases,91.0,8.0,2020-2021,Z20-Z29,Potential health hazards related to communicable diseases
+Z27,Need for immunization against combinations of infectious diseases,315.0,36.0,2020-2021,Z20-Z29,Potential health hazards related to communicable diseases
+Z28,Immunization not carried out,22.0,1.0,2020-2021,Z20-Z29,Potential health hazards related to communicable diseases
+Z29,Need for other prophylactic measures,11492.0,146.0,2020-2021,Z20-Z29,Potential health hazards related to communicable diseases
+Z30,Contraceptive management,6330.0,227.0,2020-2021,Z30-Z39,Health services in circumstances related to reproduction
+Z31,Procreative management,1549.0,5.0,2020-2021,Z30-Z39,Health services in circumstances related to reproduction
+‡ Z32,Pregnancy examination and test,761.0,443.0,2020-2021,,
+‡ Z34,Supervision of normal pregnancy,70725.0,1406.0,2020-2021,,
+‡ Z35,Supervision of high-risk pregnancy,14128.0,512.0,2020-2021,,
+‡ Z36,Antenatal screening,4380.0,297.0,2020-2021,,
+‡ Z37,Outcome of delivery,12.0,1.0,2020-2021,,
+Z38,Liveborn infants according to place of birth,376244.0,2115.0,2020-2021,Z30-Z39,Health services in circumstances related to reproduction
+‡ Z39,Postpartum care and examination,8167.0,317.0,2020-2021,,
+Z40,Prophylactic surgery,1662.0,26.0,2020-2021,Z40-Z54,Persons encountering health services for specific care
+Z41,Procedures for purposes other than remedying health state,637.0,7.0,2020-2021,Z40-Z54,Persons encountering health services for specific care
+Z42,Follow-up care involving plastic surgery,3997.0,73.0,2020-2021,Z40-Z54,Persons encountering health services for specific care
+Z43,Attention to artificial openings,11368.0,1314.0,2020-2021,Z40-Z54,Persons encountering health services for specific care
+Z44,Fitting and adjustment of external prosthetic device,96.0,24.0,2020-2021,Z40-Z54,Persons encountering health services for specific care
+Z45,Adjustment and management of implanted device,17696.0,1107.0,2020-2021,Z40-Z54,Persons encountering health services for specific care
+Z46,Fitting and adjustment of other devices,22725.0,2374.0,2020-2021,Z40-Z54,Persons encountering health services for specific care
+Z47,Other orthopaedic follow-up care,9922.0,1287.0,2020-2021,Z40-Z54,Persons encountering health services for specific care
+Z48,Other surgical follow-up care,7284.0,3224.0,2020-2021,Z40-Z54,Persons encountering health services for specific care
+Z49,Care involving dialysis,3.0,0.0,2020-2021,Z40-Z54,Persons encountering health services for specific care
+Z50,Care involving use of rehabilitation procedures,395.0,71.0,2020-2021,Z40-Z54,Persons encountering health services for specific care
+Z51,Other medical care,1782.0,18.0,2020-2021,Z40-Z54,Persons encountering health services for specific care
+Z52,Donors of organs and tissues,1149.0,28.0,2020-2021,Z40-Z54,Persons encountering health services for specific care
+Z53,"Persons encountering health services for specific procedures, not carried out",37.0,2.0,2020-2021,Z40-Z54,Persons encountering health services for specific care
+Z54,Convalescence,43.0,0.0,2020-2021,Z40-Z54,Persons encountering health services for specific care
+Z56,Problems related to employment and unemployment,4.0,3.0,2020-2021,Z55-Z65,Potential health hazards reltd. to socioeconomic & psychosoc.l
+Z59,Problems related to housing and economic circumstances,8.0,7.0,2020-2021,Z55-Z65,Potential health hazards reltd. to socioeconomic & psychosoc.l
+Z60,Problems related to social environment,4.0,3.0,2020-2021,Z55-Z65,Potential health hazards reltd. to socioeconomic & psychosoc.l
+Z61,Problems related to negative life events in childhood,13.0,10.0,2020-2021,Z55-Z65,Potential health hazards reltd. to socioeconomic & psychosoc.l
+Z62,Other problems related to upbringing,3.0,3.0,2020-2021,Z55-Z65,Potential health hazards reltd. to socioeconomic & psychosoc.l
+Z63,"Other problems related to primary support group, including family circumstances",644.0,564.0,2020-2021,Z55-Z65,Potential health hazards reltd. to socioeconomic & psychosoc.l
+Z65,Problems related to other psychosocial circumstances,2.0,2.0,2020-2021,Z55-Z65,Potential health hazards reltd. to socioeconomic & psychosoc.l
+Z70,"Counselling related to sexual attitude, behaviour and orientation",1.0,1.0,2020-2021,Z70-Z76,Persons encountering health services in other circs.
+Z71,"Persons encountering health services for other counselling and medical advice, not elsewhere classified",3071.0,2198.0,2020-2021,Z70-Z76,Persons encountering health services in other circs.
+Z72,Problems related to lifestyle,5.0,2.0,2020-2021,Z70-Z76,Persons encountering health services in other circs.
+Z73,Problems related to life-management difficulty,1920.0,1651.0,2020-2021,Z70-Z76,Persons encountering health services in other circs.
+Z74,Problems related to care-provider dependency,53.0,7.0,2020-2021,Z70-Z76,Persons encountering health services in other circs.
+Z75,Problems related to medical facilities and other health care,3270.0,170.0,2020-2021,Z70-Z76,Persons encountering health services in other circs.
+Z76,Persons encountering health services in other circumstances,4551.0,1511.0,2020-2021,Z70-Z76,Persons encountering health services in other circs.
+Z81,Family history of mental and behavioural disorders,3.0,2.0,2020-2021,Z80-Z99,Persons with potential health hazards related to family
+Z85,Personal history of malignant neoplasm,7164.0,110.0,2020-2021,Z80-Z99,Persons with potential health hazards related to family
+Z86,Personal history of certain other diseases,13.0,7.0,2020-2021,Z80-Z99,Persons with potential health hazards related to family
+Z88,"Personal history of allergy to drugs, medicaments and biological substances",8.0,0.0,2020-2021,Z80-Z99,Persons with potential health hazards related to family
+Z89,Acquired absence of limb,7.0,1.0,2020-2021,Z80-Z99,Persons with potential health hazards related to family
+Z91,"Personal history of risk-factors, not elsewhere classified",38.0,23.0,2020-2021,Z80-Z99,Persons with potential health hazards related to family
+Z92,Personal history of medical treatment,6.0,0.0,2020-2021,Z80-Z99,Persons with potential health hazards related to family
+Z93,Artificial opening status,1.0,0.0,2020-2021,Z80-Z99,Persons with potential health hazards related to family
+Z95,Presence of cardiac and vascular implants and grafts,1.0,0.0,2020-2021,Z80-Z99,Persons with potential health hazards related to family
+Z96,Presence of other functional implants,3.0,0.0,2020-2021,Z80-Z99,Persons with potential health hazards related to family
+Z97,Presence of other devices,1.0,1.0,2020-2021,Z80-Z99,Persons with potential health hazards related to family
